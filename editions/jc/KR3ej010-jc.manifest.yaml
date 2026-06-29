@@ -1,0 +1,6004 @@
+canonical_identifier: bkk:krp/KR3ej010/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3ej010/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 幼幼新書
+  identifiers:
+    krp: KR3ej010
+  tags:
+    kr-categories: KR3ej
+    tls-dates: dat04350
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ej010.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 1, filename: KR3ej010_001-jc.yaml, hash: 'sha256:1b20c4ce8e1e9bd68171aab00924196a59d838a49644cd02ef59980c71bfe92e'}
+  - {seq: 2, filename: KR3ej010_002-jc.yaml, hash: 'sha256:e5e3b0aeccadfb422aaa9a56ead7b50740638dad3d62948bb42d4514c6480684'}
+  - {seq: 3, filename: KR3ej010_003-jc.yaml, hash: 'sha256:dc688075f0481dbd71e3b3b379ad85aa4b7da5bbc16478cf77bfe2a397095e1f'}
+  - {seq: 4, filename: KR3ej010_004-jc.yaml, hash: 'sha256:52c6ac45474d2fca50daefae29432cc999178832405fe9177cf643775304f733'}
+  - {seq: 5, filename: KR3ej010_005-jc.yaml, hash: 'sha256:664efac32d8c04353f220777534895a5a0987d441bea9808ed477db086355ff7'}
+  - {seq: 6, filename: KR3ej010_006-jc.yaml, hash: 'sha256:962c2318c20fdbf12af44e362452076482568aa80359add40ee0cdeb8936ef29'}
+  - {seq: 7, filename: KR3ej010_007-jc.yaml, hash: 'sha256:838a2c311b226dd0ec7e8020690b388af3f62468c1b62fd6e585f8235d95453a'}
+  - {seq: 8, filename: KR3ej010_008-jc.yaml, hash: 'sha256:d4d36e11e03aa6ea91fc40bd81742c9234233208b28eae98d312ee46ef4d2dbd'}
+  - {seq: 9, filename: KR3ej010_009-jc.yaml, hash: 'sha256:9177b498883c60bebde77635ebb40dfbd5e6356875764792c9649a1af7e23767'}
+  - {seq: 10, filename: KR3ej010_010-jc.yaml, hash: 'sha256:0b6461a78fc9226849b19a8c78322e052da1f2949990ad2671795e84cc72180a'}
+  - {seq: 11, filename: KR3ej010_011-jc.yaml, hash: 'sha256:04ed37e3fc13f0fe44ae6c5c7eaccc45061504fc62e8dd5267bfc71e15ba7625'}
+  - {seq: 12, filename: KR3ej010_012-jc.yaml, hash: 'sha256:6e2a5dbba98520e1d2bb0f962b1dfbc6a781dab103e0c037f0fb67d7939d3e99'}
+  - {seq: 13, filename: KR3ej010_013-jc.yaml, hash: 'sha256:1de2a55d95c4e3f4316dcec93d6833195477add96c078a35e1553dca41758fe7'}
+  - {seq: 14, filename: KR3ej010_014-jc.yaml, hash: 'sha256:52a26849af7a547a54b777d1c3f1648f6a34d413a806ce37296e4fbda974bcff'}
+  - {seq: 15, filename: KR3ej010_015-jc.yaml, hash: 'sha256:15ce3b55e3cf78c019423158da62df1c9af6ebd5c0805d24e429135b8c8390b9'}
+  - {seq: 16, filename: KR3ej010_016-jc.yaml, hash: 'sha256:5436f198b3f9132fb3f58d76be6868bdb5d1e074ae85ab437800dd755f3234ce'}
+  - {seq: 17, filename: KR3ej010_017-jc.yaml, hash: 'sha256:4d36c8abc0e48955df0fa723ecc1d9f1524d2c6844cf49714d582d3ff62822c9'}
+  - {seq: 18, filename: KR3ej010_018-jc.yaml, hash: 'sha256:a75a43e8625270508251c2891fc7820f2e83ef33e110b1f4def12d122cc2de6f'}
+  - {seq: 19, filename: KR3ej010_019-jc.yaml, hash: 'sha256:74df77662ad8796459e12bbced0b7999c4d31e77b470d1c61a5973fac9e6366d'}
+  - {seq: 20, filename: KR3ej010_020-jc.yaml, hash: 'sha256:a5677a956247f89ddf95c472444af6829a503fe5961700bc3b6cbab10b32fbb4'}
+  - {seq: 21, filename: KR3ej010_021-jc.yaml, hash: 'sha256:e17aa7fc6c88c49dd86cf67d2694aecff1edcbcf6061a3ee8f72fce7107a75f1'}
+  - {seq: 22, filename: KR3ej010_022-jc.yaml, hash: 'sha256:b3e8c3d547d9c507ad3bba9f65625ff7fdbe2e772aa10ea13ad9ede693c9141f'}
+  - {seq: 23, filename: KR3ej010_023-jc.yaml, hash: 'sha256:d385820e19c5805194c77bbd9007647fa0d40113ae65c11c0399359a0d998bdd'}
+  - {seq: 24, filename: KR3ej010_024-jc.yaml, hash: 'sha256:b677b0c0ff6878fb1ae4e6f2cd73c2e8dd2225f5fcbb6475d80e4ccec4459c13'}
+  - {seq: 25, filename: KR3ej010_025-jc.yaml, hash: 'sha256:0e222e565c35f172fdaa0024afd6a5af402a11d9359a7f3c5f6290c62db2faa7'}
+  - {seq: 26, filename: KR3ej010_026-jc.yaml, hash: 'sha256:032c715af3728d4673994899e75e9213729c2ac3fdcd8e32d8bbb6466be20df7'}
+  - {seq: 27, filename: KR3ej010_027-jc.yaml, hash: 'sha256:499d7d738fda8d40f553cb03794ac298514fe74437c5f270952af5538780c9f0'}
+  - {seq: 28, filename: KR3ej010_028-jc.yaml, hash: 'sha256:504d3ba4931872bfe0ff527f556b672595307c4c624896417be69aacd09c5565'}
+  - {seq: 29, filename: KR3ej010_029-jc.yaml, hash: 'sha256:f7a1b0aab15266ceda183bc7dbdbb35c47a6a0a7a220252ceda71ff658cd2a40'}
+  - {seq: 30, filename: KR3ej010_030-jc.yaml, hash: 'sha256:8875784a02ac0ba67aa6d049f8efb7aed19f61c012f72f50ce6f052b72931f45'}
+  - {seq: 31, filename: KR3ej010_031-jc.yaml, hash: 'sha256:1b287c49b301b214e3fd7f1a9a26793115dfdbc9e96e9f71b2021602a9c55b59'}
+  - {seq: 32, filename: KR3ej010_032-jc.yaml, hash: 'sha256:d5e32c5d8901b9f4a1236a730ff5c50531a034d3a55392c9d49d2bb362571fd6'}
+  - {seq: 33, filename: KR3ej010_033-jc.yaml, hash: 'sha256:ec8764bba1403d729042cef3f777cf80e1a036a8241a509e8353051860c2b8dd'}
+  - {seq: 34, filename: KR3ej010_034-jc.yaml, hash: 'sha256:eb0689d7b11847641eca3a857177030ade3b807559a80ce2ae5f50d2ecd05ced'}
+  - {seq: 35, filename: KR3ej010_035-jc.yaml, hash: 'sha256:b716c9b26651ceaf74e13ab535d1336cfea54171c4b3b9f67567d93a24aacc08'}
+  - {seq: 36, filename: KR3ej010_036-jc.yaml, hash: 'sha256:73d67f0aa0ba4ff477a086e2ced3a078519a43b86be30af9345dee7b963e4a68'}
+  - {seq: 37, filename: KR3ej010_037-jc.yaml, hash: 'sha256:ab4bed632a91d7f3c7bd17b8d550797da9ca943fb2ca6d83d4a62fcd835daa5e'}
+  - {seq: 38, filename: KR3ej010_038-jc.yaml, hash: 'sha256:76bba311b8dae6c0e4d8ec7a3f3185a83cae0fd2c8272d3f1bc6fec21fc99374'}
+  - {seq: 39, filename: KR3ej010_039-jc.yaml, hash: 'sha256:6473c12f7bc73c9f21c325cb14fea902f59c2195e09c3b83575d2b37c2595423'}
+  - {seq: 40, filename: KR3ej010_040-jc.yaml, hash: 'sha256:e7f7cd734361716c137317ef0fa76d0b9f083b932d3114a9d245443a26f62a0c'}
+  - {seq: 0, filename: KR3ej010_000-jc.yaml, hash: 'sha256:9e4108d7be04d7d02707db503e3ad38384f7cb81f6de51fcf1e8ddf6d8f31c6a'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR3ej010_001-jc.markers.yaml, hash: 'sha256:c9c21e3fc0c6beb7750422480ff06b6d5f631f9800fd29ee209a6e9a97c16762'}
+  - {seq: 2, role: markers, filename: assets/KR3ej010_002-jc.markers.yaml, hash: 'sha256:fa8c69b77b3c3b6432702dd0817f94441fb72e7dcd414444a77738b774d170d3'}
+  - {seq: 3, role: markers, filename: assets/KR3ej010_003-jc.markers.yaml, hash: 'sha256:e5befb83cb13de0d522228297d8e2ceeb01dc3ac2cd50e07f9e2a0cc1f9f2da9'}
+  - {seq: 4, role: markers, filename: assets/KR3ej010_004-jc.markers.yaml, hash: 'sha256:58798a1848b9d1d9089ec9533311721e66da8f694bf5c4262964ea22b37a1af5'}
+  - {seq: 5, role: markers, filename: assets/KR3ej010_005-jc.markers.yaml, hash: 'sha256:8a25de57251e535d48e3e8d409f134e7336513c08ce63d0cd811491056aaed62'}
+  - {seq: 6, role: markers, filename: assets/KR3ej010_006-jc.markers.yaml, hash: 'sha256:4b595cc1eb17b6d5db872caa92a1cdd58bc7349efb8f68c53bea8c8ab0696909'}
+  - {seq: 7, role: markers, filename: assets/KR3ej010_007-jc.markers.yaml, hash: 'sha256:d2e3c09ea4eb1289c5818f4b1f2fe54f4b1ca4252f356a7558757aba320b9537'}
+  - {seq: 8, role: markers, filename: assets/KR3ej010_008-jc.markers.yaml, hash: 'sha256:9dc5a2d1dd62a05d408711d71572067907a071a5929d2e05a07d45608527f330'}
+  - {seq: 9, role: markers, filename: assets/KR3ej010_009-jc.markers.yaml, hash: 'sha256:406f2bce48e197247624ce407af97ce742d43a6bcffe125a18f0cf0dec3fc6ad'}
+  - {seq: 10, role: markers, filename: assets/KR3ej010_010-jc.markers.yaml, hash: 'sha256:ed22a70fb3e7e92b30f6efca3b1a5cdd110b6df8dbe4d1ca9aeb381953e504f0'}
+  - {seq: 11, role: markers, filename: assets/KR3ej010_011-jc.markers.yaml, hash: 'sha256:5e75bde3cc983a81782ef0e8c9de57476f4e1421e34dd5d0711b20fb87c794c0'}
+  - {seq: 12, role: markers, filename: assets/KR3ej010_012-jc.markers.yaml, hash: 'sha256:0cfe286df8d9042e6cee3f8a994046db840d5276a0bbc6b8b6f274705a20a693'}
+  - {seq: 13, role: markers, filename: assets/KR3ej010_013-jc.markers.yaml, hash: 'sha256:0aafec5b8b510cd047d913a43c98734c9a7b83871f0a591a7ce850e76ef48ed2'}
+  - {seq: 14, role: markers, filename: assets/KR3ej010_014-jc.markers.yaml, hash: 'sha256:990ee8db04e8fada5c265b157d8a73a2671105b876a3176657dc3be9e4da5498'}
+  - {seq: 15, role: markers, filename: assets/KR3ej010_015-jc.markers.yaml, hash: 'sha256:0f9ff36e3363dd6a2b0b6599c347359a7dcecc75c9ac711314bc85a19f765df8'}
+  - {seq: 16, role: markers, filename: assets/KR3ej010_016-jc.markers.yaml, hash: 'sha256:7119a6a2a4443bed14f6ad0197547ee8f3952b9ddf568165239be9d207c845c9'}
+  - {seq: 17, role: markers, filename: assets/KR3ej010_017-jc.markers.yaml, hash: 'sha256:46fe717b38e752e09a558419132480c7d3cc04679b78f32e87bd2f2fa2281add'}
+  - {seq: 18, role: markers, filename: assets/KR3ej010_018-jc.markers.yaml, hash: 'sha256:a98539a48c80f94f0acb67e60a230c007bf3b257f16f4469ae42087f41d0394d'}
+  - {seq: 19, role: markers, filename: assets/KR3ej010_019-jc.markers.yaml, hash: 'sha256:1d9b97b95d4766f81c26ff19606b81c0936fbc004b89a0a55a937c43427f74aa'}
+  - {seq: 20, role: markers, filename: assets/KR3ej010_020-jc.markers.yaml, hash: 'sha256:9293f8309d61db026e23324ba86eb938fd1e499bb45d3b18e1ccf4626eb51f3c'}
+  - {seq: 21, role: markers, filename: assets/KR3ej010_021-jc.markers.yaml, hash: 'sha256:de6390744dcfd796c745d1efc24b359ba98c99ad4abf32f73bbfaf9e27384afd'}
+  - {seq: 22, role: markers, filename: assets/KR3ej010_022-jc.markers.yaml, hash: 'sha256:e5c5f0f4129d4f1576d98750a23f3b03b2e08f74aad8576db7b91825091fc3cf'}
+  - {seq: 23, role: markers, filename: assets/KR3ej010_023-jc.markers.yaml, hash: 'sha256:08797b314bf4c0ad8e8aadd4271f92519d67fa655a31387ee95c8ab1dbc82a66'}
+  - {seq: 24, role: markers, filename: assets/KR3ej010_024-jc.markers.yaml, hash: 'sha256:5820394f3f64b21dfcb3a7734b3bb8fccb34768fc98a043f3d14efbf7ca26c0d'}
+  - {seq: 25, role: markers, filename: assets/KR3ej010_025-jc.markers.yaml, hash: 'sha256:f1b788125b748dc1d4fb8e14ee8f9dadf0506494932636e57238aaa90f4a726d'}
+  - {seq: 26, role: markers, filename: assets/KR3ej010_026-jc.markers.yaml, hash: 'sha256:a6a7aa6a79db5396b58955325236f02d990cdb1c21dc4a7cfd38b634153b9a63'}
+  - {seq: 27, role: markers, filename: assets/KR3ej010_027-jc.markers.yaml, hash: 'sha256:40e8a5e41e4210cc323f10be165956f0fdf76bfe163362463b896cac300e00b6'}
+  - {seq: 28, role: markers, filename: assets/KR3ej010_028-jc.markers.yaml, hash: 'sha256:c802b61d9c907ab54d20a81647a573d0a7fea4f7b6b903aaf6dd491b8ec69dc8'}
+  - {seq: 29, role: markers, filename: assets/KR3ej010_029-jc.markers.yaml, hash: 'sha256:6c46cf5aa3ea4ee16aea2fa5f889ffa3887861d8969be7268a2213ffcb4e9f67'}
+  - {seq: 30, role: markers, filename: assets/KR3ej010_030-jc.markers.yaml, hash: 'sha256:656a4a1fe43bf5c82b0040efc9b82fb319e2091f927f0d142ed81a2535ad6e05'}
+  - {seq: 31, role: markers, filename: assets/KR3ej010_031-jc.markers.yaml, hash: 'sha256:7fc817ab41839e4c2b80956e0533135b828bb7c604d7ad4648a8193c09b1f2b4'}
+  - {seq: 32, role: markers, filename: assets/KR3ej010_032-jc.markers.yaml, hash: 'sha256:de2f78b7d948e78c5f4401344a17fbb2ffc4097485c7953e9ccd1e19a8acce6b'}
+  - {seq: 33, role: markers, filename: assets/KR3ej010_033-jc.markers.yaml, hash: 'sha256:c37b11f9fb110af675681de064cd99e980dd89db61cbc4b3a2d14fcbdb8ca185'}
+  - {seq: 34, role: markers, filename: assets/KR3ej010_034-jc.markers.yaml, hash: 'sha256:f65ca4256c8c68be1757ddcd6a96cb5d7f015e0defb723147bd26a88b9aeb522'}
+  - {seq: 35, role: markers, filename: assets/KR3ej010_035-jc.markers.yaml, hash: 'sha256:492fca587445eaab30b1535bcb9598a8f8dfa0c7c140fc9c56a9985b5b1d713b'}
+  - {seq: 36, role: markers, filename: assets/KR3ej010_036-jc.markers.yaml, hash: 'sha256:0be9fc47d28cad3ffde9687f6c37276201ac2d7a86206c52b1b3a4389e98d036'}
+  - {seq: 37, role: markers, filename: assets/KR3ej010_037-jc.markers.yaml, hash: 'sha256:c158603c378f1cc64d3693f63f329d160697973954e456bee9c11e398682938a'}
+  - {seq: 38, role: markers, filename: assets/KR3ej010_038-jc.markers.yaml, hash: 'sha256:8962243d9db7747d8aa8309070ecf1cefec17a58561ebaf6a3954abdb621beba'}
+  - {seq: 39, role: markers, filename: assets/KR3ej010_039-jc.markers.yaml, hash: 'sha256:7ee718a38fe3c97abde413b157774fabdc8d1690530a1d2cf875e06a73ea7b8b'}
+  - {seq: 40, role: markers, filename: assets/KR3ej010_040-jc.markers.yaml, hash: 'sha256:931730fc5c86c76edfafa523b950787e3fede4cae1f70389099766abe50aa121'}
+  - {seq: 0, role: markers, filename: assets/KR3ej010_000-jc.markers.yaml, hash: 'sha256:88ddcf6e9704c778ba54fa2bcb648fd9a61bef5583cdf46c63306c2d11d205c7'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR3ej010_jc_001-d2.h1s1
+    span:
+    - body
+    - 0
+    - 8643
+  label: 卷第一
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ej010_jc_001-d2d4
+    span:
+    - body
+    - 10
+    - 8643
+  label: 求子方論
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ej010_jc_002-d3.h1s1
+    span:
+    - body
+    - 0
+    - 11781
+  label: 卷第二
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3ej010_jc_002-d3d4
+    span:
+    - body
+    - 11
+    - 398
+  label: 敘初有小兒方第一
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ej010_jc_002-d3d5
+    span:
+    - body
+    - 398
+    - 463
+  label: 敘小兒有病與大人不殊第二
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ej010_jc_002-d3d6
+    span:
+    - body
+    - 463
+    - 689
+  label: 敘小兒方可酌量藥品分兩第三
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ej010_jc_002-d3d7
+    span:
+    - body
+    - 689
+    - 731
+  label: 敘小兒有病宜早治第四
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ej010_jc_002-d3d8
+    span:
+    - body
+    - 731
+    - 948
+  label: 敘調理小兒第五
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ej010_jc_002-d3d9
+    span:
+    - body
+    - 948
+    - 1188
+  label: 敘修合藥第六
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ej010_jc_002-d3d10
+    span:
+    - body
+    - 1188
+    - 1527
+  label: 敘用藥第七
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ej010_jc_002-d3d11
+    span:
+    - body
+    - 1527
+    - 1631
+  label: 敘小兒氣弱不可容易吐瀉第八
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ej010_jc_002-d3d12
+    span:
+    - body
+    - 1631
+    - 1707
+  label: 敘十五歲以下皆可以小方脈治之第九
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ej010_jc_002-d3d13
+    span:
+    - body
+    - 1707
+    - 3672
+  label: 論初受氣第十
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ej010_jc_002-d3d14
+    span:
+    - body
+    - 3672
+    - 4241
+  label: 相壽命第十一
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ej010_jc_002-d3d15
+    span:
+    - body
+    - 4241
+    - 8523
+  label: 三關錦紋第十二
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ej010_jc_002-d3d16
+    span:
+    - body
+    - 8523
+    - 11781
+  label: 脈法第十三
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ej010_jc_003-d4.h1s1
+    span:
+    - body
+    - 0
+    - 20030
+  label: 卷第三
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3ej010_jc_003-d4d4
+    span:
+    - body
+    - 11
+    - 948
+  label: 五臟所主病第一
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ej010_jc_003-d4d5
+    span:
+    - body
+    - 948
+    - 1219
+  label: 五臟病相生刑剋第二
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ej010_jc_003-d4d6
+    span:
+    - body
+    - 1219
+    - 1469
+  label: 五臟病四時所不宜第三
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ej010_jc_003-d4d7
+    span:
+    - body
+    - 1469
+    - 1934
+  label: 胎中滋養第四
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ej010_jc_003-d4d8
+    span:
+    - body
+    - 1934
+    - 3748
+  label: 胎中受病第五
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ej010_jc_003-d4d9
+    span:
+    - body
+    - 3748
+    - 4702
+  label: 稟賦之殊第六
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ej010_jc_003-d4d10
+    span:
+    - body
+    - 4702
+    - 8551
+  label: 得病之源第七
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ej010_jc_003-d4d11
+    span:
+    - body
+    - 8551
+    - 13736
+  label: 病證形候第八
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ej010_jc_003-d4d12
+    span:
+    - body
+    - 13736
+    - 19158
+  label: 察形色治病第九
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ej010_jc_003-d4.d12d6
+    span:
+    - body
+    - 13827
+    - 16778
+  label: 辨五臟受驚積冷熱形證圖
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ej010_jc_003-d4.d12d7
+    span:
+    - body
+    - 16778
+    - 19158
+  label: 秘要指迷形證圖
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ej010_jc_003-d4d13
+    span:
+    - body
+    - 19158
+    - 20030
+  label: 治病要法第十
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ej010_jc_004-d5.h1s1
+    span:
+    - body
+    - 0
+    - 11570
+  label: 卷第四
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3ej010_jc_004-d5d4
+    span:
+    - body
+    - 12
+    - 507
+  label: 小兒胎教第一
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ej010_jc_004-d5d5
+    span:
+    - body
+    - 507
+    - 3169
+  label: 小兒初生將護法第二
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ej010_jc_004-d5d6
+    span:
+    - body
+    - 3169
+    - 4535
+  label: 擇乳母法第三
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ej010_jc_004-d5d7
+    span:
+    - body
+    - 4535
+    - 5279
+  label: 乳兒法第四
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ej010_jc_004-d5d8
+    span:
+    - body
+    - 5279
+    - 5911
+  label: 乳母雜忌慎法第五
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ej010_jc_004-d5d9
+    span:
+    - body
+    - 5911
+    - 6519
+  label: 哺兒法第六
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ej010_jc_004-d5d10
+    span:
+    - body
+    - 6519
+    - 6594
+  label: 初哺日第七
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ej010_jc_004-d5d11
+    span:
+    - body
+    - 6594
+    - 7610
+  label: 浴兒法第八
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ej010_jc_004-d5d12
+    span:
+    - body
+    - 7610
+    - 8060
+  label: 拭兒口法第九
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ej010_jc_004-d5d13
+    span:
+    - body
+    - 8060
+    - 8482
+  label: 斷臍法第十
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ej010_jc_004-d5d14
+    span:
+    - body
+    - 8482
+    - 8599
+  label: 灸臍法第十一
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ej010_jc_004-d5d15
+    span:
+    - body
+    - 8599
+    - 9231
+  label: 裹臍法第十二
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ej010_jc_004-d5d16
+    span:
+    - body
+    - 9231
+    - 9439
+  label: 甘草法第十三
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ej010_jc_004-d5d17
+    span:
+    - body
+    - 9439
+    - 9575
+  label: 黃連法第十四
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ej010_jc_004-d5d18
+    span:
+    - body
+    - 9575
+    - 9671
+  label: 韭汁法第十五
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ej010_jc_004-d5d19
+    span:
+    - body
+    - 9671
+    - 9913
+  label: 朱蜜法第十六
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ej010_jc_004-d5d20
+    span:
+    - body
+    - 9913
+    - 10036
+  label: 牛黃法第十七
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ej010_jc_004-d5d21
+    span:
+    - body
+    - 10036
+    - 10145
+  label: 汞粉法第十八
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ej010_jc_004-d5d22
+    span:
+    - body
+    - 10145
+    - 10226
+  label: 豬乳法第十九
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ej010_jc_004-d5d23
+    span:
+    - body
+    - 10226
+    - 11055
+  label: 藏衣法第二十
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ej010_jc_004-d5d24
+    span:
+    - body
+    - 11055
+    - 11178
+  label: 剃頭法第二十一
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ej010_jc_004-d5d25
+    span:
+    - body
+    - 11178
+    - 11570
+  label: 禳謝法第二十二
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ej010_jc_005-d6.h1s1
+    span:
+    - body
+    - 0
+    - 10828
+  label: 卷第五
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3ej010_jc_005-d6d4
+    span:
+    - body
+    - 11
+    - 238
+  label: 初生不作聲第一
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ej010_jc_005-d6d5
+    span:
+    - body
+    - 238
+    - 371
+  label: 初生眼不開第二
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ej010_jc_005-d6d6
+    span:
+    - body
+    - 371
+    - 441
+  label: 初生輒死第三
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ej010_jc_005-d6d7
+    span:
+    - body
+    - 441
+    - 1277
+  label: 初生不吃奶第四
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ej010_jc_005-d6d8
+    span:
+    - body
+    - 1277
+    - 1686
+  label: 初生吐不止第五
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ej010_jc_005-d6d9
+    span:
+    - body
+    - 1686
+    - 1986
+  label: 初生不小便第六
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ej010_jc_005-d6d10
+    span:
+    - body
+    - 1986
+    - 2146
+  label: 初生有懸癰病第七
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ej010_jc_005-d6d11
+    span:
+    - body
+    - 2146
+    - 3502
+  label: 初生有重舌第八
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ej010_jc_005-d6d12
+    span:
+    - body
+    - 3502
+    - 4000
+  label: 初生有重齶重齦第九
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ej010_jc_005-d6d13
+    span:
+    - body
+    - 4000
+    - 4102
+  label: 初生口中有蟲第十
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ej010_jc_005-d6d14
+    span:
+    - body
+    - 4102
+    - 5413
+  label: 初生著噤第十一
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ej010_jc_005-d6d15
+    span:
+    - body
+    - 5413
+    - 6214
+  label: 初生有鵝口第十二
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ej010_jc_005-d6d16
+    span:
+    - body
+    - 6214
+    - 6985
+  label: 初生有木舌第十三
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ej010_jc_005-d6d17
+    span:
+    - body
+    - 6985
+    - 8445
+  label: 初生有撮口第十四
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ej010_jc_005-d6d18
+    span:
+    - body
+    - 8445
+    - 9268
+  label: 初生中臍風第十五
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ej010_jc_005-d6d19
+    span:
+    - body
+    - 9268
+    - 10396
+  label: 初生臍腫濕第十六
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ej010_jc_005-d6d20
+    span:
+    - body
+    - 10396
+    - 10828
+  label: 初生有臍瘡第十七
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ej010_jc_006-d7.h1s1
+    span:
+    - body
+    - 0
+    - 10097
+  label: 卷第六
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3ej010_jc_006-d7d4
+    span:
+    - body
+    - 11
+    - 1286
+  label: 解顱第一
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ej010_jc_006-d7d5
+    span:
+    - body
+    - 1286
+    - 1891
+  label: 囟不合第二
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ej010_jc_006-d7d6
+    span:
+    - body
+    - 1891
+    - 2400
+  label: 囟填第三
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ej010_jc_006-d7d7
+    span:
+    - body
+    - 2400
+    - 2611
+  label: 囟陷第四
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ej010_jc_006-d7d8
+    span:
+    - body
+    - 2611
+    - 2994
+  label: 滯頤第五
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ej010_jc_006-d7d9
+    span:
+    - body
+    - 2994
+    - 3273
+  label: 齒不生第六
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ej010_jc_006-d7d10
+    span:
+    - body
+    - 3273
+    - 4125
+  label: 發不生第七
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ej010_jc_006-d7d11
+    span:
+    - body
+    - 4125
+    - 4300
+  label: 發黃第八
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ej010_jc_006-d7d12
+    span:
+    - body
+    - 4300
+    - 4648
+  label: 蟲胞第九
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ej010_jc_006-d7d13
+    span:
+    - body
+    - 4648
+    - 4896
+  label: 鶴節第十
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ej010_jc_006-d7d14
+    span:
+    - body
+    - 4896
+    - 5305
+  label: 手拳不展第十一
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ej010_jc_006-d7d15
+    span:
+    - body
+    - 5305
+    - 5755
+  label: 腳拳不展第十二
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ej010_jc_006-d7d16
+    span:
+    - body
+    - 5755
+    - 6004
+  label: 語吃第十三
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ej010_jc_006-d7d17
+    span:
+    - body
+    - 6004
+    - 6288
+  label: 通睛第十四
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ej010_jc_006-d7d18
+    span:
+    - body
+    - 6288
+    - 6561
+  label: 愍塞第十五
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ej010_jc_006-d7d19
+    span:
+    - body
+    - 6561
+    - 8190
+  label: 行遲第十六
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ej010_jc_006-d7d20
+    span:
+    - body
+    - 8190
+    - 8958
+  label: 語遲第十七
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ej010_jc_006-d7d21
+    span:
+    - body
+    - 8958
+    - 9500
+  label: 龜胸第十八
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ej010_jc_006-d7d22
+    span:
+    - body
+    - 9500
+    - 10097
+  label: 龜背第十九
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ej010_jc_007-d8.h1s1
+    span:
+    - body
+    - 0
+    - 18066
+  label: 卷第七
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR3ej010_jc_007-d8d4
+    span:
+    - body
+    - 10
+    - 4916
+  label: 變蒸第一
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ej010_jc_007-d8d5
+    span:
+    - body
+    - 4916
+    - 8284
+  label: 中客忤第二
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ej010_jc_007-d8d6
+    span:
+    - body
+    - 8284
+    - 9058
+  label: 中人忤第三
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ej010_jc_007-d8d7
+    span:
+    - body
+    - 9058
+    - 9517
+  label: 中馬忤第四
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ej010_jc_007-d8d8
+    span:
+    - body
+    - 9517
+    - 10348
+  label: 被鬾第五
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ej010_jc_007-d8d9
+    span:
+    - body
+    - 10348
+    - 10637
+  label: 喜啼第六
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ej010_jc_007-d8d10
+    span:
+    - body
+    - 10637
+    - 13339
+  label: 驚啼第七
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ej010_jc_007-d8d11
+    span:
+    - body
+    - 13339
+    - 15112
+  label: 軀啼第八
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ej010_jc_007-d8d12
+    span:
+    - body
+    - 15112
+    - 18066
+  label: 夜啼第九
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ej010_jc_008-d9.h1s1
+    span:
+    - body
+    - 0
+    - 26407
+  label: 卷第八
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR3ej010_jc_008-d9d4
+    span:
+    - body
+    - 10
+    - 770
+  label: 驚候第一
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ej010_jc_008-d9d5
+    span:
+    - body
+    - 770
+    - 2593
+  label: 胎驚第二
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ej010_jc_008-d9d6
+    span:
+    - body
+    - 2593
+    - 12613
+  label: 驚熱第三
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ej010_jc_008-d9d7
+    span:
+    - body
+    - 12613
+    - 15858
+  label: 驚積第四
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ej010_jc_008-d9d8
+    span:
+    - body
+    - 15858
+    - 16214
+  label: 驚虛第五
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ej010_jc_008-d9d9
+    span:
+    - body
+    - 16214
+    - 23116
+  label: 搐搦第六
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ej010_jc_008-d9d10
+    span:
+    - body
+    - 23116
+    - 23971
+  label: 狂語第七
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ej010_jc_008-d9d11
+    span:
+    - body
+    - 23971
+    - 25732
+  label: 驚悸第八
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ej010_jc_008-d9d12
+    span:
+    - body
+    - 25732
+    - 26407
+  label: 多困第九
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ej010_jc_009-d10.h1s1
+    span:
+    - body
+    - 0
+    - 32384
+  label: 卷第九
+  type: section
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR3ej010_jc_009-d10d4
+    span:
+    - body
+    - 10
+    - 10333
+  label: 急慢驚風第一
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ej010_jc_009-d10d5
+    span:
+    - body
+    - 10333
+    - 18797
+  label: 急驚風第二
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ej010_jc_009-d10d6
+    span:
+    - body
+    - 18797
+    - 32384
+  label: 慢驚風第三
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR3ej010_jc_010-d11.h1s1
+    span:
+    - body
+    - 0
+    - 22004
+  label: 卷第十
+  type: section
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR3ej010_jc_010-d11d4
+    span:
+    - body
+    - 11
+    - 11413
+  label: 一切驚第一
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR3ej010_jc_010-d11d5
+    span:
+    - body
+    - 11413
+    - 14006
+  label: 慢脾風第二
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR3ej010_jc_010-d11d6
+    span:
+    - body
+    - 14006
+    - 14187
+  label: 慢肝風第三
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR3ej010_jc_010-d11d7
+    span:
+    - body
+    - 14187
+    - 14389
+  label: 驚退而啞第四
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR3ej010_jc_010-d11d8
+    span:
+    - body
+    - 14389
+    - 14548
+  label: 驚退而筋脈不舒第五
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR3ej010_jc_010-d11d9
+    span:
+    - body
+    - 14548
+    - 18730
+  label: 天瘹第六
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR3ej010_jc_010-d11d10
+    span:
+    - body
+    - 18730
+    - 19613
+  label: 驚風內瘹第七
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR3ej010_jc_010-d11d11
+    span:
+    - body
+    - 19613
+    - 20627
+  label: 盤腸氣瘹第八
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR3ej010_jc_010-d11d12
+    span:
+    - body
+    - 20627
+    - 20850
+  label: 腹肚瘹第九
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR3ej010_jc_010-d11d13
+    span:
+    - body
+    - 20850
+    - 21740
+  label: 灸二十四瘹第十
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR3ej010_jc_010-d11d14
+    span:
+    - body
+    - 21740
+    - 21840
+  label: 猢猻噤第十一
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR3ej010_jc_010-d11d15
+    span:
+    - body
+    - 21840
+    - 22004
+  label: 白虎病第十二
+  type: section
+  level: 2
+- ref:
+    seq: 11
+    marker_id: KR3ej010_jc_011-d12.h1s1
+    span:
+    - body
+    - 0
+    - 19825
+  label: 卷第十一
+  type: section
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR3ej010_jc_011-d12d4
+    span:
+    - body
+    - 12
+    - 1822
+  label: 癇論第一
+  type: section
+  level: 2
+- ref:
+    seq: 11
+    marker_id: KR3ej010_jc_011-d12d5
+    span:
+    - body
+    - 1822
+    - 2721
+  label: 癇候第二
+  type: section
+  level: 2
+- ref:
+    seq: 11
+    marker_id: KR3ej010_jc_011-d12d6
+    span:
+    - body
+    - 2721
+    - 2965
+  label: 驚癇忤是三候第三
+  type: section
+  level: 2
+- ref:
+    seq: 11
+    marker_id: KR3ej010_jc_011-d12d7
+    span:
+    - body
+    - 2965
+    - 3645
+  label: 候癇法第四
+  type: section
+  level: 2
+- ref:
+    seq: 11
+    marker_id: KR3ej010_jc_011-d12d8
+    span:
+    - body
+    - 3645
+    - 6041
+  label: 截癇法第五
+  type: section
+  level: 2
+- ref:
+    seq: 11
+    marker_id: KR3ej010_jc_011-d12d9
+    span:
+    - body
+    - 6041
+    - 6373
+  label: 五臟之癇第六
+  type: section
+  level: 2
+- ref:
+    seq: 11
+    marker_id: KR3ej010_jc_011-d12d10
+    span:
+    - body
+    - 6373
+    - 6611
+  label: 六畜之癇第七
+  type: section
+  level: 2
+- ref:
+    seq: 11
+    marker_id: KR3ej010_jc_011-d12d11
+    span:
+    - body
+    - 6611
+    - 15144
+  label: 一切癇第八
+  type: section
+  level: 2
+- ref:
+    seq: 11
+    marker_id: KR3ej010_jc_011-d12d12
+    span:
+    - body
+    - 15144
+    - 17719
+  label: 灸癇法第九
+  type: section
+  level: 2
+- ref:
+    seq: 11
+    marker_id: KR3ej010_jc_011-d12d13
+    span:
+    - body
+    - 17719
+    - 19245
+  label: 癇瘥復發第十
+  type: section
+  level: 2
+- ref:
+    seq: 11
+    marker_id: KR3ej010_jc_011-d12d14
+    span:
+    - body
+    - 19245
+    - 19538
+  label: 癇瘥身面腫第十一
+  type: section
+  level: 2
+- ref:
+    seq: 11
+    marker_id: KR3ej010_jc_011-d12d15
+    span:
+    - body
+    - 19538
+    - 19825
+  label: 癇瘥不能語第十二
+  type: section
+  level: 2
+- ref:
+    seq: 12
+    marker_id: KR3ej010_jc_012-d13.h1s1
+    span:
+    - body
+    - 0
+    - 17792
+  label: 卷第十二
+  type: section
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR3ej010_jc_012-d13d4
+    span:
+    - body
+    - 11
+    - 3837
+  label: 風癇第一
+  type: section
+  level: 2
+- ref:
+    seq: 12
+    marker_id: KR3ej010_jc_012-d13d5
+    span:
+    - body
+    - 3837
+    - 12116
+  label: 驚癇第二
+  type: section
+  level: 2
+- ref:
+    seq: 12
+    marker_id: KR3ej010_jc_012-d13d6
+    span:
+    - body
+    - 12116
+    - 13734
+  label: 食癇第三
+  type: section
+  level: 2
+- ref:
+    seq: 12
+    marker_id: KR3ej010_jc_012-d13d7
+    span:
+    - body
+    - 13734
+    - 15600
+  label: 熱癇第四
+  type: section
+  level: 2
+- ref:
+    seq: 12
+    marker_id: KR3ej010_jc_012-d13d8
+    span:
+    - body
+    - 15600
+    - 17792
+  label: 癲癇第五
+  type: section
+  level: 2
+- ref:
+    seq: 13
+    marker_id: KR3ej010_jc_013-d14.h1s1
+    span:
+    - body
+    - 0
+    - 18345
+  label: 卷第十三
+  type: section
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR3ej010_jc_013-d14d4
+    span:
+    - body
+    - 11
+    - 1985
+  label: 胎風第一
+  type: section
+  level: 2
+- ref:
+    seq: 13
+    marker_id: KR3ej010_jc_013-d14d5
+    span:
+    - body
+    - 1985
+    - 6550
+  label: 一切風第二
+  type: section
+  level: 2
+- ref:
+    seq: 13
+    marker_id: KR3ej010_jc_013-d14d6
+    span:
+    - body
+    - 6550
+    - 11510
+  label: 中風第三
+  type: section
+  level: 2
+- ref:
+    seq: 13
+    marker_id: KR3ej010_jc_013-d14d7
+    span:
+    - body
+    - 11510
+    - 13062
+  label: 中風痙第四
+  type: section
+  level: 2
+- ref:
+    seq: 13
+    marker_id: KR3ej010_jc_013-d14d8
+    span:
+    - body
+    - 13062
+    - 14129
+  label: 中風口噤第五
+  type: section
+  level: 2
+- ref:
+    seq: 13
+    marker_id: KR3ej010_jc_013-d14d9
+    span:
+    - body
+    - 14129
+    - 14410
+  label: 中風涎潮第六
+  type: section
+  level: 2
+- ref:
+    seq: 13
+    marker_id: KR3ej010_jc_013-d14d10
+    span:
+    - body
+    - 14410
+    - 15380
+  label: 中風四肢拘攣第七
+  type: section
+  level: 2
+- ref:
+    seq: 13
+    marker_id: KR3ej010_jc_013-d14d11
+    span:
+    - body
+    - 15380
+    - 16459
+  label: 中風不隨第八
+  type: section
+  level: 2
+- ref:
+    seq: 13
+    marker_id: KR3ej010_jc_013-d14d12
+    span:
+    - body
+    - 16459
+    - 17326
+  label: 中風口喎斜僻第九
+  type: section
+  level: 2
+- ref:
+    seq: 13
+    marker_id: KR3ej010_jc_013-d14d13
+    span:
+    - body
+    - 17326
+    - 18345
+  label: 中風失音不語第十
+  type: section
+  level: 2
+- ref:
+    seq: 14
+    marker_id: KR3ej010_jc_014-d15.h1s1
+    span:
+    - body
+    - 0
+    - 25597
+  label: 卷第十四
+  type: section
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR3ej010_jc_014-d15d4
+    span:
+    - body
+    - 12
+    - 2110
+  label: 溫壯第一
+  type: section
+  level: 2
+- ref:
+    seq: 14
+    marker_id: KR3ej010_jc_014-d15d5
+    span:
+    - body
+    - 2110
+    - 5505
+  label: 壯熱第二
+  type: section
+  level: 2
+- ref:
+    seq: 14
+    marker_id: KR3ej010_jc_014-d15d6
+    span:
+    - body
+    - 5505
+    - 8528
+  label: 時氣第三
+  type: section
+  level: 2
+- ref:
+    seq: 14
+    marker_id: KR3ej010_jc_014-d15d7
+    span:
+    - body
+    - 8528
+    - 9450
+  label: 溫病第四
+  type: section
+  level: 2
+- ref:
+    seq: 14
+    marker_id: KR3ej010_jc_014-d15d8
+    span:
+    - body
+    - 9450
+    - 10933
+  label: 熱病第五
+  type: section
+  level: 2
+- ref:
+    seq: 14
+    marker_id: KR3ej010_jc_014-d15d9
+    span:
+    - body
+    - 10933
+    - 12392
+  label: 傷風第六
+  type: section
+  level: 2
+- ref:
+    seq: 14
+    marker_id: KR3ej010_jc_014-d15d10
+    span:
+    - body
+    - 12392
+    - 12893
+  label: 傷暑第七
+  type: section
+  level: 2
+- ref:
+    seq: 14
+    marker_id: KR3ej010_jc_014-d15d11
+    span:
+    - body
+    - 12893
+    - 20985
+  label: 傷寒第八
+  type: section
+  level: 2
+- ref:
+    seq: 14
+    marker_id: KR3ej010_jc_014-d15d12
+    span:
+    - body
+    - 20985
+    - 21224
+  label: 囟風傷寒第九
+  type: section
+  level: 2
+- ref:
+    seq: 14
+    marker_id: KR3ej010_jc_014-d15d13
+    span:
+    - body
+    - 21224
+    - 22268
+  label: 夾食傷寒第十
+  type: section
+  level: 2
+- ref:
+    seq: 14
+    marker_id: KR3ej010_jc_014-d15d14
+    span:
+    - body
+    - 22268
+    - 25597
+  label: 夾驚傷寒第十一
+  type: section
+  level: 2
+- ref:
+    seq: 15
+    marker_id: KR3ej010_jc_015-d16.h1s1
+    span:
+    - body
+    - 0
+    - 28729
+  label: 卷第十五
+  type: section
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR3ej010_jc_015-d16d4
+    span:
+    - body
+    - 12
+    - 2219
+  label: 傷寒自汗第一
+  type: section
+  level: 2
+- ref:
+    seq: 15
+    marker_id: KR3ej010_jc_015-d16d5
+    span:
+    - body
+    - 2219
+    - 3163
+  label: 傷寒頭汗出第二
+  type: section
+  level: 2
+- ref:
+    seq: 15
+    marker_id: KR3ej010_jc_015-d16d6
+    span:
+    - body
+    - 3163
+    - 5930
+  label: 傷寒咳嗽第三
+  type: section
+  level: 2
+- ref:
+    seq: 15
+    marker_id: KR3ej010_jc_015-d16d7
+    span:
+    - body
+    - 5930
+    - 6907
+  label: 傷寒發喘第四
+  type: section
+  level: 2
+- ref:
+    seq: 15
+    marker_id: KR3ej010_jc_015-d16d8
+    span:
+    - body
+    - 6907
+    - 8176
+  label: 傷寒鼻衄第五
+  type: section
+  level: 2
+- ref:
+    seq: 15
+    marker_id: KR3ej010_jc_015-d16d9
+    span:
+    - body
+    - 8176
+    - 10413
+  label: 傷寒嘔啘第六
+  type: section
+  level: 2
+- ref:
+    seq: 15
+    marker_id: KR3ej010_jc_015-d16d10
+    span:
+    - body
+    - 10413
+    - 13077
+  label: 傷寒發渴第七
+  type: section
+  level: 2
+- ref:
+    seq: 15
+    marker_id: KR3ej010_jc_015-d16d11
+    span:
+    - body
+    - 13077
+    - 13655
+  label: 傷寒大小便不通第八
+  type: section
+  level: 2
+- ref:
+    seq: 15
+    marker_id: KR3ej010_jc_015-d16d12
+    span:
+    - body
+    - 13655
+    - 14916
+  label: 傷寒發狂第九
+  type: section
+  level: 2
+- ref:
+    seq: 15
+    marker_id: KR3ej010_jc_015-d16d13
+    span:
+    - body
+    - 14916
+    - 16401
+  label: 傷寒結胸第十
+  type: section
+  level: 2
+- ref:
+    seq: 15
+    marker_id: KR3ej010_jc_015-d16d14
+    span:
+    - body
+    - 16401
+    - 17370
+  label: 傷寒腹痛第十一
+  type: section
+  level: 2
+- ref:
+    seq: 15
+    marker_id: KR3ej010_jc_015-d16d15
+    span:
+    - body
+    - 17370
+    - 19072
+  label: 傷寒下痢第十二
+  type: section
+  level: 2
+- ref:
+    seq: 15
+    marker_id: KR3ej010_jc_015-d16d16
+    span:
+    - body
+    - 19072
+    - 20631
+  label: 傷寒口內生瘡並喉痛第十三
+  type: section
+  level: 2
+- ref:
+    seq: 15
+    marker_id: KR3ej010_jc_015-d16d17
+    span:
+    - body
+    - 20631
+    - 22677
+  label: 傷寒發斑第十四
+  type: section
+  level: 2
+- ref:
+    seq: 15
+    marker_id: KR3ej010_jc_015-d16d18
+    span:
+    - body
+    - 22677
+    - 25320
+  label: 傷寒發黃第十五
+  type: section
+  level: 2
+- ref:
+    seq: 15
+    marker_id: KR3ej010_jc_015-d16d19
+    span:
+    - body
+    - 25320
+    - 26532
+  label: 傷寒餘熱不退第十六
+  type: section
+  level: 2
+- ref:
+    seq: 15
+    marker_id: KR3ej010_jc_015-d16d20
+    span:
+    - body
+    - 26532
+    - 27551
+  label: 傷寒勞復第十七
+  type: section
+  level: 2
+- ref:
+    seq: 15
+    marker_id: KR3ej010_jc_015-d16d21
+    span:
+    - body
+    - 27551
+    - 27761
+  label: 傷寒失音第十八
+  type: section
+  level: 2
+- ref:
+    seq: 15
+    marker_id: KR3ej010_jc_015-d16d22
+    span:
+    - body
+    - 27761
+    - 28060
+  label: 傷寒變疽第十九
+  type: section
+  level: 2
+- ref:
+    seq: 15
+    marker_id: KR3ej010_jc_015-d16d23
+    span:
+    - body
+    - 28060
+    - 28729
+  label: 傷寒變疹第二十
+  type: section
+  level: 2
+- ref:
+    seq: 16
+    marker_id: KR3ej010_jc_016-d17.h1s1
+    span:
+    - body
+    - 0
+    - 19546
+  label: 卷第十六
+  type: section
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR3ej010_jc_016-d17d4
+    span:
+    - body
+    - 12
+    - 4868
+  label: 咳嗽第一
+  type: section
+  level: 2
+- ref:
+    seq: 16
+    marker_id: KR3ej010_jc_016-d17d5
+    span:
+    - body
+    - 4868
+    - 7389
+  label: 咳逆第二
+  type: section
+  level: 2
+- ref:
+    seq: 16
+    marker_id: KR3ej010_jc_016-d17d6
+    span:
+    - body
+    - 7389
+    - 10112
+  label: 喘咳上氣第三
+  type: section
+  level: 2
+- ref:
+    seq: 16
+    marker_id: KR3ej010_jc_016-d17d7
+    span:
+    - body
+    - 10112
+    - 12983
+  label: 咳嗽作呀呷聲第四
+  type: section
+  level: 2
+- ref:
+    seq: 16
+    marker_id: KR3ej010_jc_016-d17d8
+    span:
+    - body
+    - 12983
+    - 13264
+  label: 咳嗽聲不出第五
+  type: section
+  level: 2
+- ref:
+    seq: 16
+    marker_id: KR3ej010_jc_016-d17d9
+    span:
+    - body
+    - 13264
+    - 13496
+  label: 驚膈嗽第六
+  type: section
+  level: 2
+- ref:
+    seq: 16
+    marker_id: KR3ej010_jc_016-d17d10
+    span:
+    - body
+    - 13496
+    - 14045
+  label: 傷風嗽第七
+  type: section
+  level: 2
+- ref:
+    seq: 16
+    marker_id: KR3ej010_jc_016-d17d11
+    span:
+    - body
+    - 14045
+    - 16498
+  label: 痰嗽第八
+  type: section
+  level: 2
+- ref:
+    seq: 16
+    marker_id: KR3ej010_jc_016-d17d12
+    span:
+    - body
+    - 16498
+    - 17994
+  label: 寒嗽第九
+  type: section
+  level: 2
+- ref:
+    seq: 16
+    marker_id: KR3ej010_jc_016-d17d13
+    span:
+    - body
+    - 17994
+    - 18678
+  label: 熱嗽第十
+  type: section
+  level: 2
+- ref:
+    seq: 16
+    marker_id: KR3ej010_jc_016-d17d14
+    span:
+    - body
+    - 18678
+    - 19546
+  label: 久嗽第十一
+  type: section
+  level: 2
+- ref:
+    seq: 17
+    marker_id: KR3ej010_jc_017-d18.h1s1
+    span:
+    - body
+    - 0
+    - 16279
+  label: 卷第十七
+  type: section
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR3ej010_jc_017-d18d4
+    span:
+    - body
+    - 13
+    - 2421
+  label: 痰實第一
+  type: section
+  level: 2
+- ref:
+    seq: 17
+    marker_id: KR3ej010_jc_017-d18d5
+    span:
+    - body
+    - 2421
+    - 3487
+  label: 寒熱往來第二
+  type: section
+  level: 2
+- ref:
+    seq: 17
+    marker_id: KR3ej010_jc_017-d18d6
+    span:
+    - body
+    - 3487
+    - 3712
+  label: 寒熱五臟煩滿第三
+  type: section
+  level: 2
+- ref:
+    seq: 17
+    marker_id: KR3ej010_jc_017-d18d7
+    span:
+    - body
+    - 3712
+    - 4104
+  label: 寒熱腹痛第四
+  type: section
+  level: 2
+- ref:
+    seq: 17
+    marker_id: KR3ej010_jc_017-d18d8
+    span:
+    - body
+    - 4104
+    - 4832
+  label: 寒熱結實第五
+  type: section
+  level: 2
+- ref:
+    seq: 17
+    marker_id: KR3ej010_jc_017-d18d9
+    span:
+    - body
+    - 4832
+    - 5094
+  label: 寒熱食不消第六
+  type: section
+  level: 2
+- ref:
+    seq: 17
+    marker_id: KR3ej010_jc_017-d18d10
+    span:
+    - body
+    - 5094
+    - 5542
+  label: 寒熱能食不生肌肉第七
+  type: section
+  level: 2
+- ref:
+    seq: 17
+    marker_id: KR3ej010_jc_017-d18d11
+    span:
+    - body
+    - 5542
+    - 6435
+  label: 寒熱不食羸瘦第八
+  type: section
+  level: 2
+- ref:
+    seq: 17
+    marker_id: KR3ej010_jc_017-d18d12
+    span:
+    - body
+    - 6435
+    - 9827
+  label: 瘧疾第九
+  type: section
+  level: 2
+- ref:
+    seq: 17
+    marker_id: KR3ej010_jc_017-d18d13
+    span:
+    - body
+    - 9827
+    - 10277
+  label: 瘧疾熱而後寒第十
+  type: section
+  level: 2
+- ref:
+    seq: 17
+    marker_id: KR3ej010_jc_017-d18d14
+    span:
+    - body
+    - 10277
+    - 10863
+  label: 瘧疾寒而後熱第十一
+  type: section
+  level: 2
+- ref:
+    seq: 17
+    marker_id: KR3ej010_jc_017-d18d15
+    span:
+    - body
+    - 10863
+    - 11168
+  label: 瘧疾寒熱更作第十二
+  type: section
+  level: 2
+- ref:
+    seq: 17
+    marker_id: KR3ej010_jc_017-d18d16
+    span:
+    - body
+    - 11168
+    - 11873
+  label: 瘧疾熱而不寒第十三
+  type: section
+  level: 2
+- ref:
+    seq: 17
+    marker_id: KR3ej010_jc_017-d18d17
+    span:
+    - body
+    - 11873
+    - 12721
+  label: 瘧疾寒而不熱第十四
+  type: section
+  level: 2
+- ref:
+    seq: 17
+    marker_id: KR3ej010_jc_017-d18d18
+    span:
+    - body
+    - 12721
+    - 12983
+  label: 瘧疾熱多於寒第十五
+  type: section
+  level: 2
+- ref:
+    seq: 17
+    marker_id: KR3ej010_jc_017-d18d19
+    span:
+    - body
+    - 12983
+    - 13346
+  label: 瘧疾寒多於熱第十六
+  type: section
+  level: 2
+- ref:
+    seq: 17
+    marker_id: KR3ej010_jc_017-d18d20
+    span:
+    - body
+    - 13346
+    - 13878
+  label: 瘧疾寒熱相等第十七
+  type: section
+  level: 2
+- ref:
+    seq: 17
+    marker_id: KR3ej010_jc_017-d18d21
+    span:
+    - body
+    - 13878
+    - 14252
+  label: 瘴瘧第十八
+  type: section
+  level: 2
+- ref:
+    seq: 17
+    marker_id: KR3ej010_jc_017-d18d22
+    span:
+    - body
+    - 14252
+    - 15487
+  label: 久瘧第十九
+  type: section
+  level: 2
+- ref:
+    seq: 17
+    marker_id: KR3ej010_jc_017-d18d23
+    span:
+    - body
+    - 15487
+    - 15808
+  label: 瘧後引飲第二十
+  type: section
+  level: 2
+- ref:
+    seq: 17
+    marker_id: KR3ej010_jc_017-d18d24
+    span:
+    - body
+    - 15808
+    - 16158
+  label: 瘧後脅內結硬第二十一
+  type: section
+  level: 2
+- ref:
+    seq: 17
+    marker_id: KR3ej010_jc_017-d18d25
+    span:
+    - body
+    - 16158
+    - 16279
+  label: 瘧後頭面浮腫第二十二
+  type: section
+  level: 2
+- ref:
+    seq: 18
+    marker_id: KR3ej010_jc_018-d19.h1s1
+    span:
+    - body
+    - 0
+    - 23885
+  label: 卷第十八
+  type: section
+  level: 1
+- ref:
+    seq: 18
+    marker_id: KR3ej010_jc_018-d19d4
+    span:
+    - body
+    - 12
+    - 8749
+  label: 瘡疹論第一
+  type: section
+  level: 2
+- ref:
+    seq: 18
+    marker_id: KR3ej010_jc_018-d19d5
+    span:
+    - body
+    - 8749
+    - 9707
+  label: 瘡疹候第二
+  type: section
+  level: 2
+- ref:
+    seq: 18
+    marker_id: KR3ej010_jc_018-d19d6
+    span:
+    - body
+    - 9707
+    - 10595
+  label: 瘡疹未見乃可疏利第三
+  type: section
+  level: 2
+- ref:
+    seq: 18
+    marker_id: KR3ej010_jc_018-d19d7
+    span:
+    - body
+    - 10595
+    - 11068
+  label: 瘡疹初出第四
+  type: section
+  level: 2
+- ref:
+    seq: 18
+    marker_id: KR3ej010_jc_018-d19d8
+    span:
+    - body
+    - 11068
+    - 13700
+  label: 瘡疹已出未出第五
+  type: section
+  level: 2
+- ref:
+    seq: 18
+    marker_id: KR3ej010_jc_018-d19d9
+    span:
+    - body
+    - 13700
+    - 14910
+  label: 瘡疹出不快第六
+  type: section
+  level: 2
+- ref:
+    seq: 18
+    marker_id: KR3ej010_jc_018-d19d10
+    span:
+    - body
+    - 14910
+    - 17650
+  label: 瘡疹倒黶第七
+  type: section
+  level: 2
+- ref:
+    seq: 18
+    marker_id: KR3ej010_jc_018-d19d11
+    span:
+    - body
+    - 17650
+    - 17996
+  label: 瘡疹太盛第八
+  type: section
+  level: 2
+- ref:
+    seq: 18
+    marker_id: KR3ej010_jc_018-d19d12
+    span:
+    - body
+    - 17996
+    - 18326
+  label: 瘡疹愛護面目第九
+  type: section
+  level: 2
+- ref:
+    seq: 18
+    marker_id: KR3ej010_jc_018-d19d13
+    span:
+    - body
+    - 18326
+    - 18979
+  label: 瘡疹攻咽痛第十
+  type: section
+  level: 2
+- ref:
+    seq: 18
+    marker_id: KR3ej010_jc_018-d19d14
+    span:
+    - body
+    - 18979
+    - 19426
+  label: 瘡疹大小便不通第十一
+  type: section
+  level: 2
+- ref:
+    seq: 18
+    marker_id: KR3ej010_jc_018-d19d15
+    span:
+    - body
+    - 19426
+    - 19564
+  label: 瘡疹便膿血第十二
+  type: section
+  level: 2
+- ref:
+    seq: 18
+    marker_id: KR3ej010_jc_018-d19d16
+    span:
+    - body
+    - 19564
+    - 19728
+  label: 瘡疹膿汁不幹第十三
+  type: section
+  level: 2
+- ref:
+    seq: 18
+    marker_id: KR3ej010_jc_018-d19d17
+    span:
+    - body
+    - 19728
+    - 22374
+  label: 瘡疹入眼第十四
+  type: section
+  level: 2
+- ref:
+    seq: 18
+    marker_id: KR3ej010_jc_018-d19d18
+    span:
+    - body
+    - 22374
+    - 23050
+  label: 瘡疹後解餘毒第十五
+  type: section
+  level: 2
+- ref:
+    seq: 18
+    marker_id: KR3ej010_jc_018-d19d19
+    span:
+    - body
+    - 23050
+    - 23885
+  label: 瘡疹後減瘢痕第十六
+  type: section
+  level: 2
+- ref:
+    seq: 19
+    marker_id: KR3ej010_jc_019-d20.h1s1
+    span:
+    - body
+    - 0
+    - 19407
+  label: 卷第十九
+  type: section
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR3ej010_jc_019-d20d4
+    span:
+    - body
+    - 11
+    - 577
+  label: 胎熱第一
+  type: section
+  level: 2
+- ref:
+    seq: 19
+    marker_id: KR3ej010_jc_019-d20d5
+    span:
+    - body
+    - 577
+    - 1910
+  label: 膈熱第二
+  type: section
+  level: 2
+- ref:
+    seq: 19
+    marker_id: KR3ej010_jc_019-d20d6
+    span:
+    - body
+    - 1910
+    - 3153
+  label: 胃熱第三
+  type: section
+  level: 2
+- ref:
+    seq: 19
+    marker_id: KR3ej010_jc_019-d20d7
+    span:
+    - body
+    - 3153
+    - 8824
+  label: 風熱第四
+  type: section
+  level: 2
+- ref:
+    seq: 19
+    marker_id: KR3ej010_jc_019-d20d8
+    span:
+    - body
+    - 8824
+    - 10111
+  label: 煩熱第五
+  type: section
+  level: 2
+- ref:
+    seq: 19
+    marker_id: KR3ej010_jc_019-d20d9
+    span:
+    - body
+    - 10111
+    - 12053
+  label: 潮熱第六
+  type: section
+  level: 2
+- ref:
+    seq: 19
+    marker_id: KR3ej010_jc_019-d20d10
+    span:
+    - body
+    - 12053
+    - 13963
+  label: 積熱第七
+  type: section
+  level: 2
+- ref:
+    seq: 19
+    marker_id: KR3ej010_jc_019-d20d11
+    span:
+    - body
+    - 13963
+    - 16350
+  label: 實熱第八
+  type: section
+  level: 2
+- ref:
+    seq: 19
+    marker_id: KR3ej010_jc_019-d20d12
+    span:
+    - body
+    - 16350
+    - 17192
+  label: 極熱第九
+  type: section
+  level: 2
+- ref:
+    seq: 19
+    marker_id: KR3ej010_jc_019-d20d13
+    span:
+    - body
+    - 17192
+    - 19407
+  label: 痰涎第十
+  type: section
+  level: 2
+- ref:
+    seq: 20
+    marker_id: KR3ej010_jc_020-d21.h1s1
+    span:
+    - body
+    - 0
+    - 14915
+  label: 卷第二十
+  type: section
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR3ej010_jc_020-d21d4
+    span:
+    - body
+    - 11
+    - 1389
+  label: 虛熱第一
+  type: section
+  level: 2
+- ref:
+    seq: 20
+    marker_id: KR3ej010_jc_020-d21d5
+    span:
+    - body
+    - 1389
+    - 3551
+  label: 骨熱第二
+  type: section
+  level: 2
+- ref:
+    seq: 20
+    marker_id: KR3ej010_jc_020-d21d6
+    span:
+    - body
+    - 3551
+    - 6888
+  label: 骨蒸第三
+  type: section
+  level: 2
+- ref:
+    seq: 20
+    marker_id: KR3ej010_jc_020-d21d7
+    span:
+    - body
+    - 6888
+    - 9298
+  label: 盜汗第四
+  type: section
+  level: 2
+- ref:
+    seq: 20
+    marker_id: KR3ej010_jc_020-d21d8
+    span:
+    - body
+    - 9298
+    - 9828
+  label: 喜汗第五
+  type: section
+  level: 2
+- ref:
+    seq: 20
+    marker_id: KR3ej010_jc_020-d21d9
+    span:
+    - body
+    - 9828
+    - 11352
+  label: 勞氣第六
+  type: section
+  level: 2
+- ref:
+    seq: 20
+    marker_id: KR3ej010_jc_020-d21d10
+    span:
+    - body
+    - 11352
+    - 13423
+  label: 熱渴第七
+  type: section
+  level: 2
+- ref:
+    seq: 20
+    marker_id: KR3ej010_jc_020-d21d11
+    span:
+    - body
+    - 13423
+    - 14673
+  label: 黃疸第八
+  type: section
+  level: 2
+- ref:
+    seq: 20
+    marker_id: KR3ej010_jc_020-d21d12
+    span:
+    - body
+    - 14673
+    - 14915
+  label: 黑疸第九
+  type: section
+  level: 2
+- ref:
+    seq: 21
+    marker_id: KR3ej010_jc_021-d22.h1s1
+    span:
+    - body
+    - 0
+    - 17966
+  label: 卷第二十一
+  type: section
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR3ej010_jc_021-d22d4
+    span:
+    - body
+    - 13
+    - 827
+  label: 胎寒第一
+  type: section
+  level: 2
+- ref:
+    seq: 21
+    marker_id: KR3ej010_jc_021-d22d5
+    span:
+    - body
+    - 827
+    - 1718
+  label: 虛寒第二
+  type: section
+  level: 2
+- ref:
+    seq: 21
+    marker_id: KR3ej010_jc_021-d22d6
+    span:
+    - body
+    - 1718
+    - 2576
+  label: 胸中有寒第三
+  type: section
+  level: 2
+- ref:
+    seq: 21
+    marker_id: KR3ej010_jc_021-d22d7
+    span:
+    - body
+    - 2576
+    - 2984
+  label: 胸膈滿痛第四
+  type: section
+  level: 2
+- ref:
+    seq: 21
+    marker_id: KR3ej010_jc_021-d22d8
+    span:
+    - body
+    - 2984
+    - 4132
+  label: 心痛第五
+  type: section
+  level: 2
+- ref:
+    seq: 21
+    marker_id: KR3ej010_jc_021-d22d9
+    span:
+    - body
+    - 4132
+    - 5786
+  label: 腹痛第六
+  type: section
+  level: 2
+- ref:
+    seq: 21
+    marker_id: KR3ej010_jc_021-d22d10
+    span:
+    - body
+    - 5786
+    - 8857
+  label: 腹脹第七
+  type: section
+  level: 2
+- ref:
+    seq: 21
+    marker_id: KR3ej010_jc_021-d22d11
+    span:
+    - body
+    - 8857
+    - 10615
+  label: 冷熱不調第八
+  type: section
+  level: 2
+- ref:
+    seq: 21
+    marker_id: KR3ej010_jc_021-d22d12
+    span:
+    - body
+    - 10615
+    - 13620
+  label: 胃氣不和第九
+  type: section
+  level: 2
+- ref:
+    seq: 21
+    marker_id: KR3ej010_jc_021-d22d13
+    span:
+    - body
+    - 13620
+    - 14770
+  label: 乳食不下第十
+  type: section
+  level: 2
+- ref:
+    seq: 21
+    marker_id: KR3ej010_jc_021-d22d14
+    span:
+    - body
+    - 14770
+    - 14932
+  label: 膈氣第十一
+  type: section
+  level: 2
+- ref:
+    seq: 21
+    marker_id: KR3ej010_jc_021-d22d15
+    span:
+    - body
+    - 14932
+    - 15413
+  label: 氣逆第十二
+  type: section
+  level: 2
+- ref:
+    seq: 21
+    marker_id: KR3ej010_jc_021-d22d16
+    span:
+    - body
+    - 15413
+    - 17121
+  label: 肌膚羸瘦第十三
+  type: section
+  level: 2
+- ref:
+    seq: 21
+    marker_id: KR3ej010_jc_021-d22d17
+    span:
+    - body
+    - 17121
+    - 17696
+  label: 病後虛羸第十四
+  type: section
+  level: 2
+- ref:
+    seq: 21
+    marker_id: KR3ej010_jc_021-d22d18
+    span:
+    - body
+    - 17696
+    - 17808
+  label: 病後聲不出第十五
+  type: section
+  level: 2
+- ref:
+    seq: 21
+    marker_id: KR3ej010_jc_021-d22d19
+    span:
+    - body
+    - 17808
+    - 17966
+  label: 病後不能語第十六
+  type: section
+  level: 2
+- ref:
+    seq: 22
+    marker_id: KR3ej010_jc_022-d23.h1s1
+    span:
+    - body
+    - 0
+    - 29295
+  label: 卷第二十二
+  type: section
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR3ej010_jc_022-d23d4
+    span:
+    - body
+    - 12
+    - 7832
+  label: 積聚第一
+  type: section
+  level: 2
+- ref:
+    seq: 22
+    marker_id: KR3ej010_jc_022-d23d5
+    span:
+    - body
+    - 7832
+    - 11188
+  label: 癥瘕第二
+  type: section
+  level: 2
+- ref:
+    seq: 22
+    marker_id: KR3ej010_jc_022-d23d6
+    span:
+    - body
+    - 11188
+    - 15772
+  label: 癖氣第三
+  type: section
+  level: 2
+- ref:
+    seq: 22
+    marker_id: KR3ej010_jc_022-d23d7
+    span:
+    - body
+    - 15772
+    - 18438
+  label: 乳癖第四
+  type: section
+  level: 2
+- ref:
+    seq: 22
+    marker_id: KR3ej010_jc_022-d23d8
+    span:
+    - body
+    - 18438
+    - 19377
+  label: 痃氣第五
+  type: section
+  level: 2
+- ref:
+    seq: 22
+    marker_id: KR3ej010_jc_022-d23d9
+    span:
+    - body
+    - 19377
+    - 21931
+  label: 痞結第六
+  type: section
+  level: 2
+- ref:
+    seq: 22
+    marker_id: KR3ej010_jc_022-d23d10
+    span:
+    - body
+    - 21931
+    - 25219
+  label: 宿食不消第七
+  type: section
+  level: 2
+- ref:
+    seq: 22
+    marker_id: KR3ej010_jc_022-d23d11
+    span:
+    - body
+    - 25219
+    - 26041
+  label: 傷飽第八
+  type: section
+  level: 2
+- ref:
+    seq: 22
+    marker_id: KR3ej010_jc_022-d23d12
+    span:
+    - body
+    - 26041
+    - 28654
+  label: 丁奚第九
+  type: section
+  level: 2
+- ref:
+    seq: 22
+    marker_id: KR3ej010_jc_022-d23d13
+    span:
+    - body
+    - 28654
+    - 29295
+  label: 哺露第十
+  type: section
+  level: 2
+- ref:
+    seq: 23
+    marker_id: KR3ej010_jc_023-d24.h1s1
+    span:
+    - body
+    - 0
+    - 19812
+  label: 卷第二十三
+  type: section
+  level: 1
+- ref:
+    seq: 23
+    marker_id: KR3ej010_jc_023-d24d4
+    span:
+    - body
+    - 12
+    - 989
+  label: 五疳論第一
+  type: section
+  level: 2
+- ref:
+    seq: 23
+    marker_id: KR3ej010_jc_023-d24d5
+    span:
+    - body
+    - 989
+    - 2013
+  label: 五疳候第二
+  type: section
+  level: 2
+- ref:
+    seq: 23
+    marker_id: KR3ej010_jc_023-d24d6
+    span:
+    - body
+    - 2013
+    - 2443
+  label: 五疳可治不可治候第三
+  type: section
+  level: 2
+- ref:
+    seq: 23
+    marker_id: KR3ej010_jc_023-d24d7
+    span:
+    - body
+    - 2443
+    - 8619
+  label: 五疳第四
+  type: section
+  level: 2
+- ref:
+    seq: 23
+    marker_id: KR3ej010_jc_023-d24d8
+    span:
+    - body
+    - 8619
+    - 11426
+  label: 風疳第五
+  type: section
+  level: 2
+- ref:
+    seq: 23
+    marker_id: KR3ej010_jc_023-d24d9
+    span:
+    - body
+    - 11426
+    - 14589
+  label: 驚疳第六
+  type: section
+  level: 2
+- ref:
+    seq: 23
+    marker_id: KR3ej010_jc_023-d24d10
+    span:
+    - body
+    - 14589
+    - 16491
+  label: 食疳第七
+  type: section
+  level: 2
+- ref:
+    seq: 23
+    marker_id: KR3ej010_jc_023-d24d11
+    span:
+    - body
+    - 16491
+    - 18511
+  label: 氣疳第八
+  type: section
+  level: 2
+- ref:
+    seq: 23
+    marker_id: KR3ej010_jc_023-d24d12
+    span:
+    - body
+    - 18511
+    - 19812
+  label: 急疳第九
+  type: section
+  level: 2
+- ref:
+    seq: 24
+    marker_id: KR3ej010_jc_024-d25.h1s1
+    span:
+    - body
+    - 0
+    - 26183
+  label: 卷第二十四
+  type: section
+  level: 1
+- ref:
+    seq: 24
+    marker_id: KR3ej010_jc_024-d25d4
+    span:
+    - body
+    - 11
+    - 4839
+  label: 無辜疳第一
+  type: section
+  level: 2
+- ref:
+    seq: 24
+    marker_id: KR3ej010_jc_024-d25d5
+    span:
+    - body
+    - 4839
+    - 5560
+  label: 無辜針烙法第二
+  type: section
+  level: 2
+- ref:
+    seq: 24
+    marker_id: KR3ej010_jc_024-d25d6
+    span:
+    - body
+    - 5560
+    - 20912
+  label: 一切疳第三
+  type: section
+  level: 2
+- ref:
+    seq: 24
+    marker_id: KR3ej010_jc_024-d25d7
+    span:
+    - body
+    - 20912
+    - 24460
+  label: 五疳出蟲第四
+  type: section
+  level: 2
+- ref:
+    seq: 24
+    marker_id: KR3ej010_jc_024-d25d8
+    span:
+    - body
+    - 24460
+    - 26183
+  label: 疳疾吹鼻第五
+  type: section
+  level: 2
+- ref:
+    seq: 25
+    marker_id: KR3ej010_jc_025-d26.h1s1
+    span:
+    - body
+    - 0
+    - 20111
+  label: 卷第二十五
+  type: section
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR3ej010_jc_025-d26d4
+    span:
+    - body
+    - 13
+    - 3884
+  label: 走馬疳第一
+  type: section
+  level: 2
+- ref:
+    seq: 25
+    marker_id: KR3ej010_jc_025-d26d5
+    span:
+    - body
+    - 3884
+    - 6300
+  label: 口齒疳第二
+  type: section
+  level: 2
+- ref:
+    seq: 25
+    marker_id: KR3ej010_jc_025-d26d6
+    span:
+    - body
+    - 6300
+    - 7856
+  label: 鼻疳第三
+  type: section
+  level: 2
+- ref:
+    seq: 25
+    marker_id: KR3ej010_jc_025-d26d7
+    span:
+    - body
+    - 7856
+    - 10828
+  label: 眼疳第四
+  type: section
+  level: 2
+- ref:
+    seq: 25
+    marker_id: KR3ej010_jc_025-d26d8
+    span:
+    - body
+    - 10828
+    - 12093
+  label: 腦疳第五
+  type: section
+  level: 2
+- ref:
+    seq: 25
+    marker_id: KR3ej010_jc_025-d26d9
+    span:
+    - body
+    - 12093
+    - 13397
+  label: 脊疳第六
+  type: section
+  level: 2
+- ref:
+    seq: 25
+    marker_id: KR3ej010_jc_025-d26d10
+    span:
+    - body
+    - 13397
+    - 14530
+  label: 奶疳第七
+  type: section
+  level: 2
+- ref:
+    seq: 25
+    marker_id: KR3ej010_jc_025-d26d11
+    span:
+    - body
+    - 14530
+    - 14729
+  label: 疳肥第八
+  type: section
+  level: 2
+- ref:
+    seq: 25
+    marker_id: KR3ej010_jc_025-d26d12
+    span:
+    - body
+    - 14729
+    - 17980
+  label: 疳瘦第九
+  type: section
+  level: 2
+- ref:
+    seq: 25
+    marker_id: KR3ej010_jc_025-d26d13
+    span:
+    - body
+    - 17980
+    - 19236
+  label: 乾疳第十
+  type: section
+  level: 2
+- ref:
+    seq: 25
+    marker_id: KR3ej010_jc_025-d26d14
+    span:
+    - body
+    - 19236
+    - 20111
+  label: 內疳第十一
+  type: section
+  level: 2
+- ref:
+    seq: 26
+    marker_id: KR3ej010_jc_026-d27.h1s1
+    span:
+    - body
+    - 0
+    - 12039
+  label: 卷第二十六
+  type: section
+  level: 1
+- ref:
+    seq: 26
+    marker_id: KR3ej010_jc_026-d27d4
+    span:
+    - body
+    - 13
+    - 802
+  label: 疳熱第一
+  type: section
+  level: 2
+- ref:
+    seq: 26
+    marker_id: KR3ej010_jc_026-d27d5
+    span:
+    - body
+    - 802
+    - 2112
+  label: 疳渴第二
+  type: section
+  level: 2
+- ref:
+    seq: 26
+    marker_id: KR3ej010_jc_026-d27d6
+    span:
+    - body
+    - 2112
+    - 2801
+  label: 疳勞第三
+  type: section
+  level: 2
+- ref:
+    seq: 26
+    marker_id: KR3ej010_jc_026-d27d7
+    span:
+    - body
+    - 2801
+    - 2894
+  label: 疳嗽第四
+  type: section
+  level: 2
+- ref:
+    seq: 26
+    marker_id: KR3ej010_jc_026-d27d8
+    span:
+    - body
+    - 2894
+    - 4555
+  label: 疳積第五
+  type: section
+  level: 2
+- ref:
+    seq: 26
+    marker_id: KR3ej010_jc_026-d27d9
+    span:
+    - body
+    - 4555
+    - 5830
+  label: 疳瀉第六
+  type: section
+  level: 2
+- ref:
+    seq: 26
+    marker_id: KR3ej010_jc_026-d27d10
+    span:
+    - body
+    - 5830
+    - 7300
+  label: 疳痢第七
+  type: section
+  level: 2
+- ref:
+    seq: 26
+    marker_id: KR3ej010_jc_026-d27d11
+    span:
+    - body
+    - 7300
+    - 8175
+  label: 疳痢久不瘥第八
+  type: section
+  level: 2
+- ref:
+    seq: 26
+    marker_id: KR3ej010_jc_026-d27d12
+    span:
+    - body
+    - 8175
+    - 8630
+  label: 疳痢腹痛第九
+  type: section
+  level: 2
+- ref:
+    seq: 26
+    marker_id: KR3ej010_jc_026-d27d13
+    span:
+    - body
+    - 8630
+    - 9288
+  label: 疳濕第十
+  type: section
+  level: 2
+- ref:
+    seq: 26
+    marker_id: KR3ej010_jc_026-d27d14
+    span:
+    - body
+    - 9288
+    - 10375
+  label: 蛔疳第十一
+  type: section
+  level: 2
+- ref:
+    seq: 26
+    marker_id: KR3ej010_jc_026-d27d15
+    span:
+    - body
+    - 10375
+    - 11149
+  label: 疳瘡第十二
+  type: section
+  level: 2
+- ref:
+    seq: 26
+    marker_id: KR3ej010_jc_026-d27d16
+    span:
+    - body
+    - 11149
+    - 11362
+  label: 疳腫第十三
+  type: section
+  level: 2
+- ref:
+    seq: 26
+    marker_id: KR3ej010_jc_026-d27d17
+    span:
+    - body
+    - 11362
+    - 11964
+  label: 疳後天柱倒第十四
+  type: section
+  level: 2
+- ref:
+    seq: 26
+    marker_id: KR3ej010_jc_026-d27d18
+    span:
+    - body
+    - 11964
+    - 12039
+  label: 疳氣灌入陰第十五
+  type: section
+  level: 2
+- ref:
+    seq: 27
+    marker_id: KR3ej010_jc_027-d28.h1s1
+    span:
+    - body
+    - 0
+    - 24388
+  label: 卷第二十七
+  type: section
+  level: 1
+- ref:
+    seq: 27
+    marker_id: KR3ej010_jc_027-d28d4
+    span:
+    - body
+    - 13
+    - 7626
+  label: 吐逆第一
+  type: section
+  level: 2
+- ref:
+    seq: 27
+    marker_id: KR3ej010_jc_027-d28d5
+    span:
+    - body
+    - 7626
+    - 8527
+  label: 吐哯第二
+  type: section
+  level: 2
+- ref:
+    seq: 27
+    marker_id: KR3ej010_jc_027-d28d6
+    span:
+    - body
+    - 8527
+    - 9148
+  label: 噦逆第三
+  type: section
+  level: 2
+- ref:
+    seq: 27
+    marker_id: KR3ej010_jc_027-d28d7
+    span:
+    - body
+    - 9148
+    - 12837
+  label: 霍亂吐利第四
+  type: section
+  level: 2
+- ref:
+    seq: 27
+    marker_id: KR3ej010_jc_027-d28d8
+    span:
+    - body
+    - 12837
+    - 14762
+  label: 霍亂第五
+  type: section
+  level: 2
+- ref:
+    seq: 27
+    marker_id: KR3ej010_jc_027-d28d9
+    span:
+    - body
+    - 14762
+    - 20594
+  label: 吐利第六
+  type: section
+  level: 2
+- ref:
+    seq: 27
+    marker_id: KR3ej010_jc_027-d28d10
+    span:
+    - body
+    - 20594
+    - 21080
+  label: 吐利津液少第七
+  type: section
+  level: 2
+- ref:
+    seq: 27
+    marker_id: KR3ej010_jc_027-d28d11
+    span:
+    - body
+    - 21080
+    - 22156
+  label: 吐利心腹痛第八
+  type: section
+  level: 2
+- ref:
+    seq: 27
+    marker_id: KR3ej010_jc_027-d28d12
+    span:
+    - body
+    - 22156
+    - 22785
+  label: 冷吐第九
+  type: section
+  level: 2
+- ref:
+    seq: 27
+    marker_id: KR3ej010_jc_027-d28d13
+    span:
+    - body
+    - 22785
+    - 23576
+  label: 熱吐第十
+  type: section
+  level: 2
+- ref:
+    seq: 27
+    marker_id: KR3ej010_jc_027-d28d14
+    span:
+    - body
+    - 23576
+    - 24203
+  label: 挾驚吐第十一
+  type: section
+  level: 2
+- ref:
+    seq: 27
+    marker_id: KR3ej010_jc_027-d28d15
+    span:
+    - body
+    - 24203
+    - 24388
+  label: 毒氣吐第十二
+  type: section
+  level: 2
+- ref:
+    seq: 28
+    marker_id: KR3ej010_jc_028-d29.h1s1
+    span:
+    - body
+    - 0
+    - 21147
+  label: 卷第二十八
+  type: section
+  level: 1
+- ref:
+    seq: 28
+    marker_id: KR3ej010_jc_028-d29d4
+    span:
+    - body
+    - 13
+    - 4440
+  label: 一切泄瀉第一
+  type: section
+  level: 2
+- ref:
+    seq: 28
+    marker_id: KR3ej010_jc_028-d29d5
+    span:
+    - body
+    - 4440
+    - 5690
+  label: 積瀉第二
+  type: section
+  level: 2
+- ref:
+    seq: 28
+    marker_id: KR3ej010_jc_028-d29d6
+    span:
+    - body
+    - 5690
+    - 6199
+  label: 驚瀉第三
+  type: section
+  level: 2
+- ref:
+    seq: 28
+    marker_id: KR3ej010_jc_028-d29d7
+    span:
+    - body
+    - 6199
+    - 6719
+  label: 傷瀉第四
+  type: section
+  level: 2
+- ref:
+    seq: 28
+    marker_id: KR3ej010_jc_028-d29d8
+    span:
+    - body
+    - 6719
+    - 8336
+  label: 冷瀉第五
+  type: section
+  level: 2
+- ref:
+    seq: 28
+    marker_id: KR3ej010_jc_028-d29d9
+    span:
+    - body
+    - 8336
+    - 8704
+  label: 熱瀉第六
+  type: section
+  level: 2
+- ref:
+    seq: 28
+    marker_id: KR3ej010_jc_028-d29d10
+    span:
+    - body
+    - 8704
+    - 9937
+  label: 洞泄第七
+  type: section
+  level: 2
+- ref:
+    seq: 28
+    marker_id: KR3ej010_jc_028-d29d11
+    span:
+    - body
+    - 9937
+    - 11545
+  label: 水穀瀉第八
+  type: section
+  level: 2
+- ref:
+    seq: 28
+    marker_id: KR3ej010_jc_028-d29d12
+    span:
+    - body
+    - 11545
+    - 12313
+  label: 暴瀉第九
+  type: section
+  level: 2
+- ref:
+    seq: 28
+    marker_id: KR3ej010_jc_028-d29d13
+    span:
+    - body
+    - 12313
+    - 12731
+  label: 曩瀉第十
+  type: section
+  level: 2
+- ref:
+    seq: 28
+    marker_id: KR3ej010_jc_028-d29d14
+    span:
+    - body
+    - 12731
+    - 16488
+  label: 利久不止第十一
+  type: section
+  level: 2
+- ref:
+    seq: 28
+    marker_id: KR3ej010_jc_028-d29d15
+    span:
+    - body
+    - 16488
+    - 19337
+  label: 利渴不止第十二
+  type: section
+  level: 2
+- ref:
+    seq: 28
+    marker_id: KR3ej010_jc_028-d29d16
+    span:
+    - body
+    - 19337
+    - 20396
+  label: 下利腹痛第十三
+  type: section
+  level: 2
+- ref:
+    seq: 28
+    marker_id: KR3ej010_jc_028-d29d17
+    span:
+    - body
+    - 20396
+    - 20925
+  label: 下利羸瘦第十四
+  type: section
+  level: 2
+- ref:
+    seq: 28
+    marker_id: KR3ej010_jc_028-d29d18
+    span:
+    - body
+    - 20925
+    - 21147
+  label: 下利浮腫第十五
+  type: section
+  level: 2
+- ref:
+    seq: 29
+    marker_id: KR3ej010_jc_029-d30.h1s1
+    span:
+    - body
+    - 0
+    - 23662
+  label: 卷第二十九
+  type: section
+  level: 1
+- ref:
+    seq: 29
+    marker_id: KR3ej010_jc_029-d30d4
+    span:
+    - body
+    - 13
+    - 557
+  label: 八痢第一
+  type: section
+  level: 2
+- ref:
+    seq: 29
+    marker_id: KR3ej010_jc_029-d30d5
+    span:
+    - body
+    - 557
+    - 4657
+  label: 一切痢第二
+  type: section
+  level: 2
+- ref:
+    seq: 29
+    marker_id: KR3ej010_jc_029-d30d6
+    span:
+    - body
+    - 4657
+    - 7057
+  label: 冷痢第三
+  type: section
+  level: 2
+- ref:
+    seq: 29
+    marker_id: KR3ej010_jc_029-d30d7
+    span:
+    - body
+    - 7057
+    - 9091
+  label: 熱痢第四
+  type: section
+  level: 2
+- ref:
+    seq: 29
+    marker_id: KR3ej010_jc_029-d30d8
+    span:
+    - body
+    - 9091
+    - 15007
+  label: 冷熱痢第五
+  type: section
+  level: 2
+- ref:
+    seq: 29
+    marker_id: KR3ej010_jc_029-d30d9
+    span:
+    - body
+    - 15007
+    - 15408
+  label: 白膿痢第六
+  type: section
+  level: 2
+- ref:
+    seq: 29
+    marker_id: KR3ej010_jc_029-d30d10
+    span:
+    - body
+    - 15408
+    - 17752
+  label: 純血痢第七
+  type: section
+  level: 2
+- ref:
+    seq: 29
+    marker_id: KR3ej010_jc_029-d30d11
+    span:
+    - body
+    - 17752
+    - 20182
+  label: 膿血相雜痢第八
+  type: section
+  level: 2
+- ref:
+    seq: 29
+    marker_id: KR3ej010_jc_029-d30d12
+    span:
+    - body
+    - 20182
+    - 21105
+  label: 五色痢第九
+  type: section
+  level: 2
+- ref:
+    seq: 29
+    marker_id: KR3ej010_jc_029-d30d13
+    span:
+    - body
+    - 21105
+    - 21511
+  label: 休息痢第十
+  type: section
+  level: 2
+- ref:
+    seq: 29
+    marker_id: KR3ej010_jc_029-d30d14
+    span:
+    - body
+    - 21511
+    - 22900
+  label: 蠱痢第十一
+  type: section
+  level: 2
+- ref:
+    seq: 29
+    marker_id: KR3ej010_jc_029-d30d15
+    span:
+    - body
+    - 22900
+    - 23662
+  label: 脫肛第十二
+  type: section
+  level: 2
+- ref:
+    seq: 30
+    marker_id: KR3ej010_jc_030-d31.h1s1
+    span:
+    - body
+    - 0
+    - 17250
+  label: 卷第三十
+  type: section
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR3ej010_jc_030-d31d4
+    span:
+    - body
+    - 12
+    - 1257
+  label: 吐血第一
+  type: section
+  level: 2
+- ref:
+    seq: 30
+    marker_id: KR3ej010_jc_030-d31d5
+    span:
+    - body
+    - 1257
+    - 1443
+  label: 嗽血第二
+  type: section
+  level: 2
+- ref:
+    seq: 30
+    marker_id: KR3ej010_jc_030-d31d6
+    span:
+    - body
+    - 1443
+    - 2596
+  label: 鼻衄第三
+  type: section
+  level: 2
+- ref:
+    seq: 30
+    marker_id: KR3ej010_jc_030-d31d7
+    span:
+    - body
+    - 2596
+    - 3662
+  label: 大便血第四
+  type: section
+  level: 2
+- ref:
+    seq: 30
+    marker_id: KR3ej010_jc_030-d31d8
+    span:
+    - body
+    - 3662
+    - 4494
+  label: 小便血第五
+  type: section
+  level: 2
+- ref:
+    seq: 30
+    marker_id: KR3ej010_jc_030-d31d9
+    span:
+    - body
+    - 4494
+    - 6585
+  label: 大便不通第六
+  type: section
+  level: 2
+- ref:
+    seq: 30
+    marker_id: KR3ej010_jc_030-d31d10
+    span:
+    - body
+    - 6585
+    - 8896
+  label: 小便不通第七
+  type: section
+  level: 2
+- ref:
+    seq: 30
+    marker_id: KR3ej010_jc_030-d31d11
+    span:
+    - body
+    - 8896
+    - 9563
+  label: 大小便不通利第八
+  type: section
+  level: 2
+- ref:
+    seq: 30
+    marker_id: KR3ej010_jc_030-d31d12
+    span:
+    - body
+    - 9563
+    - 9600
+  label: 大便失禁第九
+  type: section
+  level: 2
+- ref:
+    seq: 30
+    marker_id: KR3ej010_jc_030-d31d13
+    span:
+    - body
+    - 9600
+    - 9758
+  label: 小便數第十
+  type: section
+  level: 2
+- ref:
+    seq: 30
+    marker_id: KR3ej010_jc_030-d31d14
+    span:
+    - body
+    - 9758
+    - 10345
+  label: 大便青第十一
+  type: section
+  level: 2
+- ref:
+    seq: 30
+    marker_id: KR3ej010_jc_030-d31d15
+    span:
+    - body
+    - 10345
+    - 10444
+  label: 小便白第十二
+  type: section
+  level: 2
+- ref:
+    seq: 30
+    marker_id: KR3ej010_jc_030-d31d16
+    span:
+    - body
+    - 10444
+    - 13189
+  label: 小便淋瀝第十三
+  type: section
+  level: 2
+- ref:
+    seq: 30
+    marker_id: KR3ej010_jc_030-d31d17
+    span:
+    - body
+    - 13189
+    - 13795
+  label: 石淋第十四
+  type: section
+  level: 2
+- ref:
+    seq: 30
+    marker_id: KR3ej010_jc_030-d31d18
+    span:
+    - body
+    - 13795
+    - 13982
+  label: 氣淋第十五
+  type: section
+  level: 2
+- ref:
+    seq: 30
+    marker_id: KR3ej010_jc_030-d31d19
+    span:
+    - body
+    - 13982
+    - 14689
+  label: 熱淋第十六
+  type: section
+  level: 2
+- ref:
+    seq: 30
+    marker_id: KR3ej010_jc_030-d31d20
+    span:
+    - body
+    - 14689
+    - 15472
+  label: 血淋第十七
+  type: section
+  level: 2
+- ref:
+    seq: 30
+    marker_id: KR3ej010_jc_030-d31d21
+    span:
+    - body
+    - 15472
+    - 15680
+  label: 寒淋第十八
+  type: section
+  level: 2
+- ref:
+    seq: 30
+    marker_id: KR3ej010_jc_030-d31d22
+    span:
+    - body
+    - 15680
+    - 17250
+  label: 痔疾第十九
+  type: section
+  level: 2
+- ref:
+    seq: 31
+    marker_id: KR3ej010_jc_031-d32.h1s1
+    span:
+    - body
+    - 0
+    - 14638
+  label: 卷第三十一
+  type: section
+  level: 1
+- ref:
+    seq: 31
+    marker_id: KR3ej010_jc_031-d32d4
+    span:
+    - body
+    - 12
+    - 3562
+  label: 蟲動第一
+  type: section
+  level: 2
+- ref:
+    seq: 31
+    marker_id: KR3ej010_jc_031-d32d5
+    span:
+    - body
+    - 3562
+    - 6737
+  label: 蛔蟲第二
+  type: section
+  level: 2
+- ref:
+    seq: 31
+    marker_id: KR3ej010_jc_031-d32d6
+    span:
+    - body
+    - 6737
+    - 7313
+  label: 蟯蟲第三
+  type: section
+  level: 2
+- ref:
+    seq: 31
+    marker_id: KR3ej010_jc_031-d32d7
+    span:
+    - body
+    - 7313
+    - 8035
+  label: 寸白蟲第四
+  type: section
+  level: 2
+- ref:
+    seq: 31
+    marker_id: KR3ej010_jc_031-d32d8
+    span:
+    - body
+    - 8035
+    - 11405
+  label: 㿗疝第五
+  type: section
+  level: 2
+- ref:
+    seq: 31
+    marker_id: KR3ej010_jc_031-d32d9
+    span:
+    - body
+    - 11405
+    - 12516
+  label: 偏㿗第六
+  type: section
+  level: 2
+- ref:
+    seq: 31
+    marker_id: KR3ej010_jc_031-d32d10
+    span:
+    - body
+    - 12516
+    - 13795
+  label: 陰腫第七
+  type: section
+  level: 2
+- ref:
+    seq: 31
+    marker_id: KR3ej010_jc_031-d32d11
+    span:
+    - body
+    - 13795
+    - 14207
+  label: 陰瘡第八
+  type: section
+  level: 2
+- ref:
+    seq: 31
+    marker_id: KR3ej010_jc_031-d32d12
+    span:
+    - body
+    - 14207
+    - 14638
+  label: 吊起外腎第九
+  type: section
+  level: 2
+- ref:
+    seq: 32
+    marker_id: KR3ej010_jc_032-d33.h1s1
+    span:
+    - body
+    - 0
+    - 9280
+  label: 卷第三十二
+  type: section
+  level: 1
+- ref:
+    seq: 32
+    marker_id: KR3ej010_jc_032-d33d4
+    span:
+    - body
+    - 12
+    - 358
+  label: 痰飲第一
+  type: section
+  level: 2
+- ref:
+    seq: 32
+    marker_id: KR3ej010_jc_032-d33d5
+    span:
+    - body
+    - 358
+    - 2540
+  label: 腫滿第二
+  type: section
+  level: 2
+- ref:
+    seq: 32
+    marker_id: KR3ej010_jc_032-d33d6
+    span:
+    - body
+    - 2540
+    - 3877
+  label: 水氣第三
+  type: section
+  level: 2
+- ref:
+    seq: 32
+    marker_id: KR3ej010_jc_032-d33d7
+    span:
+    - body
+    - 3877
+    - 5295
+  label: 中惡第四
+  type: section
+  level: 2
+- ref:
+    seq: 32
+    marker_id: KR3ej010_jc_032-d33d8
+    span:
+    - body
+    - 5295
+    - 6224
+  label: 卒死第五
+  type: section
+  level: 2
+- ref:
+    seq: 32
+    marker_id: KR3ej010_jc_032-d33d9
+    span:
+    - body
+    - 6224
+    - 6533
+  label: 鬼持第六
+  type: section
+  level: 2
+- ref:
+    seq: 32
+    marker_id: KR3ej010_jc_032-d33d10
+    span:
+    - body
+    - 6533
+    - 6942
+  label: 疰病第七
+  type: section
+  level: 2
+- ref:
+    seq: 32
+    marker_id: KR3ej010_jc_032-d33d11
+    span:
+    - body
+    - 6942
+    - 8165
+  label: 屍疰第八
+  type: section
+  level: 2
+- ref:
+    seq: 32
+    marker_id: KR3ej010_jc_032-d33d12
+    span:
+    - body
+    - 8165
+    - 9280
+  label: 蠱疰第九
+  type: section
+  level: 2
+- ref:
+    seq: 33
+    marker_id: KR3ej010_jc_033-d34.h1s1
+    span:
+    - body
+    - 0
+    - 22935
+  label: 卷第三十三
+  type: section
+  level: 1
+- ref:
+    seq: 33
+    marker_id: KR3ej010_jc_033-d34d4
+    span:
+    - body
+    - 14
+    - 4102
+  label: 眼赤痛第一
+  type: section
+  level: 2
+- ref:
+    seq: 33
+    marker_id: KR3ej010_jc_033-d34d5
+    span:
+    - body
+    - 4102
+    - 6842
+  label: 胎赤眼第二
+  type: section
+  level: 2
+- ref:
+    seq: 33
+    marker_id: KR3ej010_jc_033-d34d6
+    span:
+    - body
+    - 6842
+    - 9422
+  label: 睛生障翳第三
+  type: section
+  level: 2
+- ref:
+    seq: 33
+    marker_id: KR3ej010_jc_033-d34d7
+    span:
+    - body
+    - 9422
+    - 9618
+  label: 眼癢第四
+  type: section
+  level: 2
+- ref:
+    seq: 33
+    marker_id: KR3ej010_jc_033-d34d8
+    span:
+    - body
+    - 9618
+    - 10778
+  label: 眼暗第五
+  type: section
+  level: 2
+- ref:
+    seq: 33
+    marker_id: KR3ej010_jc_033-d34d9
+    span:
+    - body
+    - 10778
+    - 10961
+  label: 睛高第六
+  type: section
+  level: 2
+- ref:
+    seq: 33
+    marker_id: KR3ej010_jc_033-d34d10
+    span:
+    - body
+    - 10961
+    - 11596
+  label: 青盲第七
+  type: section
+  level: 2
+- ref:
+    seq: 33
+    marker_id: KR3ej010_jc_033-d34d11
+    span:
+    - body
+    - 11596
+    - 13094
+  label: 雀目第八
+  type: section
+  level: 2
+- ref:
+    seq: 33
+    marker_id: KR3ej010_jc_033-d34d12
+    span:
+    - body
+    - 13094
+    - 13781
+  label: 疣目第九
+  type: section
+  level: 2
+- ref:
+    seq: 33
+    marker_id: KR3ej010_jc_033-d34d13
+    span:
+    - body
+    - 13781
+    - 13959
+  label: 目中有眯第十
+  type: section
+  level: 2
+- ref:
+    seq: 33
+    marker_id: KR3ej010_jc_033-d34d14
+    span:
+    - body
+    - 13959
+    - 15130
+  label: 耳聾第十一
+  type: section
+  level: 2
+- ref:
+    seq: 33
+    marker_id: KR3ej010_jc_033-d34d15
+    span:
+    - body
+    - 15130
+    - 15226
+  label: 耳鳴第十二
+  type: section
+  level: 2
+- ref:
+    seq: 33
+    marker_id: KR3ej010_jc_033-d34d16
+    span:
+    - body
+    - 15226
+    - 15364
+  label: 耳中痛第十三
+  type: section
+  level: 2
+- ref:
+    seq: 33
+    marker_id: KR3ej010_jc_033-d34d17
+    span:
+    - body
+    - 15364
+    - 15683
+  label: 耳瘡第十四
+  type: section
+  level: 2
+- ref:
+    seq: 33
+    marker_id: KR3ej010_jc_033-d34d18
+    span:
+    - body
+    - 15683
+    - 16806
+  label: 月蝕瘡第十五
+  type: section
+  level: 2
+- ref:
+    seq: 33
+    marker_id: KR3ej010_jc_033-d34d19
+    span:
+    - body
+    - 16806
+    - 18419
+  label: 聤耳第十六
+  type: section
+  level: 2
+- ref:
+    seq: 33
+    marker_id: KR3ej010_jc_033-d34d20
+    span:
+    - body
+    - 18419
+    - 18521
+  label: 耳中有瘜肉第十七
+  type: section
+  level: 2
+- ref:
+    seq: 33
+    marker_id: KR3ej010_jc_033-d34d21
+    span:
+    - body
+    - 18521
+    - 18599
+  label: 底耳第十八
+  type: section
+  level: 2
+- ref:
+    seq: 33
+    marker_id: KR3ej010_jc_033-d34d22
+    span:
+    - body
+    - 18599
+    - 19282
+  label: 百蟲入耳第十九
+  type: section
+  level: 2
+- ref:
+    seq: 33
+    marker_id: KR3ej010_jc_033-d34d23
+    span:
+    - body
+    - 19282
+    - 19605
+  label: 齆鼻第二十
+  type: section
+  level: 2
+- ref:
+    seq: 33
+    marker_id: KR3ej010_jc_033-d34d24
+    span:
+    - body
+    - 19605
+    - 20995
+  label: 鼻塞第二十一
+  type: section
+  level: 2
+- ref:
+    seq: 33
+    marker_id: KR3ej010_jc_033-d34d25
+    span:
+    - body
+    - 20995
+    - 21509
+  label: 鼻流清涕第二十二
+  type: section
+  level: 2
+- ref:
+    seq: 33
+    marker_id: KR3ej010_jc_033-d34d26
+    span:
+    - body
+    - 21509
+    - 22382
+  label: 鼻乾無涕第二十三
+  type: section
+  level: 2
+- ref:
+    seq: 33
+    marker_id: KR3ej010_jc_033-d34d27
+    span:
+    - body
+    - 22382
+    - 22935
+  label: 鼻有瘜肉第二十四
+  type: section
+  level: 2
+- ref:
+    seq: 34
+    marker_id: KR3ej010_jc_034-d35.h1s1
+    span:
+    - body
+    - 0
+    - 12558
+  label: 卷第三十四
+  type: section
+  level: 1
+- ref:
+    seq: 34
+    marker_id: KR3ej010_jc_034-d35d4
+    span:
+    - body
+    - 14
+    - 3200
+  label: 口瘡第一
+  type: section
+  level: 2
+- ref:
+    seq: 34
+    marker_id: KR3ej010_jc_034-d35d5
+    span:
+    - body
+    - 3200
+    - 3367
+  label: 口臭第二
+  type: section
+  level: 2
+- ref:
+    seq: 34
+    marker_id: KR3ej010_jc_034-d35d6
+    span:
+    - body
+    - 3367
+    - 3515
+  label: 口乾第三
+  type: section
+  level: 2
+- ref:
+    seq: 34
+    marker_id: KR3ej010_jc_034-d35d7
+    span:
+    - body
+    - 3515
+    - 3954
+  label: 燕口瘡第四
+  type: section
+  level: 2
+- ref:
+    seq: 34
+    marker_id: KR3ej010_jc_034-d35d8
+    span:
+    - body
+    - 3954
+    - 4180
+  label: 唇口上生瘡第五
+  type: section
+  level: 2
+- ref:
+    seq: 34
+    marker_id: KR3ej010_jc_034-d35d9
+    span:
+    - body
+    - 4180
+    - 4465
+  label: 舌腫第六
+  type: section
+  level: 2
+- ref:
+    seq: 34
+    marker_id: KR3ej010_jc_034-d35d10
+    span:
+    - body
+    - 4465
+    - 4893
+  label: 舌上瘡第七
+  type: section
+  level: 2
+- ref:
+    seq: 34
+    marker_id: KR3ej010_jc_034-d35d11
+    span:
+    - body
+    - 4893
+    - 4967
+  label: 舌上血出第八
+  type: section
+  level: 2
+- ref:
+    seq: 34
+    marker_id: KR3ej010_jc_034-d35d12
+    span:
+    - body
+    - 4967
+    - 5061
+  label: 唇腫第九
+  type: section
+  level: 2
+- ref:
+    seq: 34
+    marker_id: KR3ej010_jc_034-d35d13
+    span:
+    - body
+    - 5061
+    - 5561
+  label: 緊唇第十
+  type: section
+  level: 2
+- ref:
+    seq: 34
+    marker_id: KR3ej010_jc_034-d35d14
+    span:
+    - body
+    - 5561
+    - 5725
+  label: 唇青第十一
+  type: section
+  level: 2
+- ref:
+    seq: 34
+    marker_id: KR3ej010_jc_034-d35d15
+    span:
+    - body
+    - 5725
+    - 7960
+  label: 咽喉腫痛第十二
+  type: section
+  level: 2
+- ref:
+    seq: 34
+    marker_id: KR3ej010_jc_034-d35d16
+    span:
+    - body
+    - 7960
+    - 8044
+  label: 屍咽第十三
+  type: section
+  level: 2
+- ref:
+    seq: 34
+    marker_id: KR3ej010_jc_034-d35d17
+    span:
+    - body
+    - 8044
+    - 8096
+  label: 咽中噎第十四
+  type: section
+  level: 2
+- ref:
+    seq: 34
+    marker_id: KR3ej010_jc_034-d35d18
+    span:
+    - body
+    - 8096
+    - 9496
+  label: 喉痹第十五
+  type: section
+  level: 2
+- ref:
+    seq: 34
+    marker_id: KR3ej010_jc_034-d35d19
+    span:
+    - body
+    - 9496
+    - 9657
+  label: 馬痹第十六
+  type: section
+  level: 2
+- ref:
+    seq: 34
+    marker_id: KR3ej010_jc_034-d35d20
+    span:
+    - body
+    - 9657
+    - 10190
+  label: 纏喉風第十七
+  type: section
+  level: 2
+- ref:
+    seq: 34
+    marker_id: KR3ej010_jc_034-d35d21
+    span:
+    - body
+    - 10190
+    - 10674
+  label: 齒痛第十八
+  type: section
+  level: 2
+- ref:
+    seq: 34
+    marker_id: KR3ej010_jc_034-d35d22
+    span:
+    - body
+    - 10674
+    - 11030
+  label: 齒齦宣露第十九
+  type: section
+  level: 2
+- ref:
+    seq: 34
+    marker_id: KR3ej010_jc_034-d35d23
+    span:
+    - body
+    - 11030
+    - 11394
+  label: 齒根腫痛第二十
+  type: section
+  level: 2
+- ref:
+    seq: 34
+    marker_id: KR3ej010_jc_034-d35d24
+    span:
+    - body
+    - 11394
+    - 11763
+  label: 齲齒第二十一
+  type: section
+  level: 2
+- ref:
+    seq: 34
+    marker_id: KR3ej010_jc_034-d35d25
+    span:
+    - body
+    - 11763
+    - 12119
+  label: 蚛齒第二十二
+  type: section
+  level: 2
+- ref:
+    seq: 34
+    marker_id: KR3ej010_jc_034-d35d26
+    span:
+    - body
+    - 12119
+    - 12367
+  label: 齒落久不生第二十三
+  type: section
+  level: 2
+- ref:
+    seq: 34
+    marker_id: KR3ej010_jc_034-d35d27
+    span:
+    - body
+    - 12367
+    - 12558
+  label: 頰車蹉閃第二十四
+  type: section
+  level: 2
+- ref:
+    seq: 35
+    marker_id: KR3ej010_jc_035-d36.h1s1
+    span:
+    - body
+    - 0
+    - 12026
+  label: 卷第三十五
+  type: section
+  level: 1
+- ref:
+    seq: 35
+    marker_id: KR3ej010_jc_035-d36d4
+    span:
+    - body
+    - 14
+    - 896
+  label: 丹候第一
+  type: section
+  level: 2
+- ref:
+    seq: 35
+    marker_id: KR3ej010_jc_035-d36d5
+    span:
+    - body
+    - 896
+    - 3631
+  label: 一切丹第二
+  type: section
+  level: 2
+- ref:
+    seq: 35
+    marker_id: KR3ej010_jc_035-d36d6
+    span:
+    - body
+    - 3631
+    - 3732
+  label: 土虺第三
+  type: section
+  level: 2
+- ref:
+    seq: 35
+    marker_id: KR3ej010_jc_035-d36d7
+    span:
+    - body
+    - 3732
+    - 3845
+  label: 眼丹第四
+  type: section
+  level: 2
+- ref:
+    seq: 35
+    marker_id: KR3ej010_jc_035-d36d8
+    span:
+    - body
+    - 3845
+    - 4210
+  label: 五色丹第五
+  type: section
+  level: 2
+- ref:
+    seq: 35
+    marker_id: KR3ej010_jc_035-d36d9
+    span:
+    - body
+    - 4210
+    - 4266
+  label: 伊火丹第六
+  type: section
+  level: 2
+- ref:
+    seq: 35
+    marker_id: KR3ej010_jc_035-d36d10
+    span:
+    - body
+    - 4266
+    - 4398
+  label: 熛火丹第七
+  type: section
+  level: 2
+- ref:
+    seq: 35
+    marker_id: KR3ej010_jc_035-d36d11
+    span:
+    - body
+    - 4398
+    - 4477
+  label: 茱萸丹第八
+  type: section
+  level: 2
+- ref:
+    seq: 35
+    marker_id: KR3ej010_jc_035-d36d12
+    span:
+    - body
+    - 4477
+    - 5062
+  label: 赤丹第九
+  type: section
+  level: 2
+- ref:
+    seq: 35
+    marker_id: KR3ej010_jc_035-d36d13
+    span:
+    - body
+    - 5062
+    - 5407
+  label: 白丹第十
+  type: section
+  level: 2
+- ref:
+    seq: 35
+    marker_id: KR3ej010_jc_035-d36d14
+    span:
+    - body
+    - 5407
+    - 5695
+  label: 黑丹第十一
+  type: section
+  level: 2
+- ref:
+    seq: 35
+    marker_id: KR3ej010_jc_035-d36d15
+    span:
+    - body
+    - 5695
+    - 5731
+  label: 天雷丹第十二
+  type: section
+  level: 2
+- ref:
+    seq: 35
+    marker_id: KR3ej010_jc_035-d36d16
+    span:
+    - body
+    - 5731
+    - 6105
+  label: 天火丹第十三
+  type: section
+  level: 2
+- ref:
+    seq: 35
+    marker_id: KR3ej010_jc_035-d36d17
+    span:
+    - body
+    - 6105
+    - 6321
+  label: 殃火丹第十四
+  type: section
+  level: 2
+- ref:
+    seq: 35
+    marker_id: KR3ej010_jc_035-d36d18
+    span:
+    - body
+    - 6321
+    - 6350
+  label: 神氣丹第十五
+  type: section
+  level: 2
+- ref:
+    seq: 35
+    marker_id: KR3ej010_jc_035-d36d19
+    span:
+    - body
+    - 6350
+    - 6464
+  label: 神火丹第十六
+  type: section
+  level: 2
+- ref:
+    seq: 35
+    marker_id: KR3ej010_jc_035-d36d20
+    span:
+    - body
+    - 6464
+    - 6494
+  label: 神灶丹第十七
+  type: section
+  level: 2
+- ref:
+    seq: 35
+    marker_id: KR3ej010_jc_035-d36d21
+    span:
+    - body
+    - 6494
+    - 6702
+  label: 鬼太丹第十八
+  type: section
+  level: 2
+- ref:
+    seq: 35
+    marker_id: KR3ej010_jc_035-d36d22
+    span:
+    - body
+    - 6702
+    - 6852
+  label: 野火丹第十九
+  type: section
+  level: 2
+- ref:
+    seq: 35
+    marker_id: KR3ej010_jc_035-d36d23
+    span:
+    - body
+    - 6852
+    - 6934
+  label: 骨火丹第二十
+  type: section
+  level: 2
+- ref:
+    seq: 35
+    marker_id: KR3ej010_jc_035-d36d24
+    span:
+    - body
+    - 6934
+    - 7092
+  label: 家火丹第二十一
+  type: section
+  level: 2
+- ref:
+    seq: 35
+    marker_id: KR3ej010_jc_035-d36d25
+    span:
+    - body
+    - 7092
+    - 7456
+  label: 火丹第二十二
+  type: section
+  level: 2
+- ref:
+    seq: 35
+    marker_id: KR3ej010_jc_035-d36d26
+    span:
+    - body
+    - 7456
+    - 7686
+  label: 螢火丹第二十三
+  type: section
+  level: 2
+- ref:
+    seq: 35
+    marker_id: KR3ej010_jc_035-d36d27
+    span:
+    - body
+    - 7686
+    - 7862
+  label: 朱田火丹第二十四
+  type: section
+  level: 2
+- ref:
+    seq: 35
+    marker_id: KR3ej010_jc_035-d36d28
+    span:
+    - body
+    - 7862
+    - 7894
+  label: 胡吹灶丹第二十五
+  type: section
+  level: 2
+- ref:
+    seq: 35
+    marker_id: KR3ej010_jc_035-d36d29
+    span:
+    - body
+    - 7894
+    - 7924
+  label: 胡漏灶丹第二十六
+  type: section
+  level: 2
+- ref:
+    seq: 35
+    marker_id: KR3ej010_jc_035-d36d30
+    span:
+    - body
+    - 7924
+    - 7958
+  label: 土灶丹第二十七
+  type: section
+  level: 2
+- ref:
+    seq: 35
+    marker_id: KR3ej010_jc_035-d36d31
+    span:
+    - body
+    - 7958
+    - 8347
+  label: 天灶火丹第二十八
+  type: section
+  level: 2
+- ref:
+    seq: 35
+    marker_id: KR3ej010_jc_035-d36d32
+    span:
+    - body
+    - 8347
+    - 8595
+  label: 廢灶火丹第二十九
+  type: section
+  level: 2
+- ref:
+    seq: 35
+    marker_id: KR3ej010_jc_035-d36d33
+    span:
+    - body
+    - 8595
+    - 8794
+  label: 尿灶火丹第三十
+  type: section
+  level: 2
+- ref:
+    seq: 35
+    marker_id: KR3ej010_jc_035-d36d34
+    span:
+    - body
+    - 8794
+    - 8826
+  label: 野灶丹第三十一
+  type: section
+  level: 2
+- ref:
+    seq: 35
+    marker_id: KR3ej010_jc_035-d36d35
+    span:
+    - body
+    - 8826
+    - 8891
+  label: 大孕丹第三十二
+  type: section
+  level: 2
+- ref:
+    seq: 35
+    marker_id: KR3ej010_jc_035-d36d36
+    span:
+    - body
+    - 8891
+    - 9000
+  label: 爾朱丹第三十三
+  type: section
+  level: 2
+- ref:
+    seq: 35
+    marker_id: KR3ej010_jc_035-d36d37
+    span:
+    - body
+    - 9000
+    - 10010
+  label: 赤流丹第三十四
+  type: section
+  level: 2
+- ref:
+    seq: 35
+    marker_id: KR3ej010_jc_035-d36d38
+    span:
+    - body
+    - 10010
+    - 10984
+  label: 赤遊腫第三十五
+  type: section
+  level: 2
+- ref:
+    seq: 35
+    marker_id: KR3ej010_jc_035-d36d39
+    span:
+    - body
+    - 10984
+    - 11579
+  label: 身有赤處第三十六
+  type: section
+  level: 2
+- ref:
+    seq: 35
+    marker_id: KR3ej010_jc_035-d36d40
+    span:
+    - body
+    - 11579
+    - 11689
+  label: 赤白溜第三十七
+  type: section
+  level: 2
+- ref:
+    seq: 35
+    marker_id: KR3ej010_jc_035-d36d41
+    span:
+    - body
+    - 11689
+    - 12026
+  label: 卒腹皮青黑第三十八
+  type: section
+  level: 2
+- ref:
+    seq: 36
+    marker_id: KR3ej010_jc_036-d37.h1s1
+    span:
+    - body
+    - 0
+    - 15191
+  label: 卷第三十六
+  type: section
+  level: 1
+- ref:
+    seq: 36
+    marker_id: KR3ej010_jc_036-d37d4
+    span:
+    - body
+    - 13
+    - 2283
+  label: 癰第一
+  type: section
+  level: 2
+- ref:
+    seq: 36
+    marker_id: KR3ej010_jc_036-d37d5
+    span:
+    - body
+    - 2283
+    - 3420
+  label: 疽第二
+  type: section
+  level: 2
+- ref:
+    seq: 36
+    marker_id: KR3ej010_jc_036-d37d6
+    span:
+    - body
+    - 3420
+    - 4108
+  label: 附骨疽第三
+  type: section
+  level: 2
+- ref:
+    seq: 36
+    marker_id: KR3ej010_jc_036-d37d7
+    span:
+    - body
+    - 4108
+    - 5689
+  label: 毒腫第四
+  type: section
+  level: 2
+- ref:
+    seq: 36
+    marker_id: KR3ej010_jc_036-d37d8
+    span:
+    - body
+    - 5689
+    - 6380
+  label: 癤第五
+  type: section
+  level: 2
+- ref:
+    seq: 36
+    marker_id: KR3ej010_jc_036-d37d9
+    span:
+    - body
+    - 6380
+    - 7011
+  label: 軟癤第六
+  type: section
+  level: 2
+- ref:
+    seq: 36
+    marker_id: KR3ej010_jc_036-d37d10
+    span:
+    - body
+    - 7011
+    - 7726
+  label: 惡核第七
+  type: section
+  level: 2
+- ref:
+    seq: 36
+    marker_id: KR3ej010_jc_036-d37d11
+    span:
+    - body
+    - 7726
+    - 9635
+  label: 惡瘡第八
+  type: section
+  level: 2
+- ref:
+    seq: 36
+    marker_id: KR3ej010_jc_036-d37d12
+    span:
+    - body
+    - 9635
+    - 10753
+  label: 瘻瘡第九
+  type: section
+  level: 2
+- ref:
+    seq: 36
+    marker_id: KR3ej010_jc_036-d37d13
+    span:
+    - body
+    - 10753
+    - 13784
+  label: 瘰病第十
+  type: section
+  level: 2
+- ref:
+    seq: 36
+    marker_id: KR3ej010_jc_036-d37d14
+    span:
+    - body
+    - 13784
+    - 15191
+  label: 癭氣第十一
+  type: section
+  level: 2
+- ref:
+    seq: 37
+    marker_id: KR3ej010_jc_037-d38.h1s1
+    span:
+    - body
+    - 0
+    - 13778
+  label: 卷第三十七
+  type: section
+  level: 1
+- ref:
+    seq: 37
+    marker_id: KR3ej010_jc_037-d38d4
+    span:
+    - body
+    - 13
+    - 1262
+  label: 一切瘡第一
+  type: section
+  level: 2
+- ref:
+    seq: 37
+    marker_id: KR3ej010_jc_037-d38d5
+    span:
+    - body
+    - 1262
+    - 1353
+  label: 蓐瘡第二
+  type: section
+  level: 2
+- ref:
+    seq: 37
+    marker_id: KR3ej010_jc_037-d38d6
+    span:
+    - body
+    - 1353
+    - 2081
+  label: 風熱瘡第三
+  type: section
+  level: 2
+- ref:
+    seq: 37
+    marker_id: KR3ej010_jc_037-d38d7
+    span:
+    - body
+    - 2081
+    - 3385
+  label: 熱毒瘡第四
+  type: section
+  level: 2
+- ref:
+    seq: 37
+    marker_id: KR3ej010_jc_037-d38d8
+    span:
+    - body
+    - 3385
+    - 5779
+  label: 頭面身體生瘡第五
+  type: section
+  level: 2
+- ref:
+    seq: 37
+    marker_id: KR3ej010_jc_037-d38d9
+    span:
+    - body
+    - 5779
+    - 7823
+  label: 風瘙癮疹第六
+  type: section
+  level: 2
+- ref:
+    seq: 37
+    marker_id: KR3ej010_jc_037-d38d10
+    span:
+    - body
+    - 7823
+    - 9449
+  label: 疥第七
+  type: section
+  level: 2
+- ref:
+    seq: 37
+    marker_id: KR3ej010_jc_037-d38d11
+    span:
+    - body
+    - 9449
+    - 10890
+  label: 癬第八
+  type: section
+  level: 2
+- ref:
+    seq: 37
+    marker_id: KR3ej010_jc_037-d38d12
+    span:
+    - body
+    - 10890
+    - 11344
+  label: 瘑瘡第九
+  type: section
+  level: 2
+- ref:
+    seq: 37
+    marker_id: KR3ej010_jc_037-d38d13
+    span:
+    - body
+    - 11344
+    - 12091
+  label: 熛瘡第十
+  type: section
+  level: 2
+- ref:
+    seq: 37
+    marker_id: KR3ej010_jc_037-d38d14
+    span:
+    - body
+    - 12091
+    - 12134
+  label: 尿灰瘡第十一
+  type: section
+  level: 2
+- ref:
+    seq: 37
+    marker_id: KR3ej010_jc_037-d38d15
+    span:
+    - body
+    - 12134
+    - 12262
+  label: 酢瘡第十二
+  type: section
+  level: 2
+- ref:
+    seq: 37
+    marker_id: KR3ej010_jc_037-d38d16
+    span:
+    - body
+    - 12262
+    - 12602
+  label: 魚臍瘡第十三
+  type: section
+  level: 2
+- ref:
+    seq: 37
+    marker_id: KR3ej010_jc_037-d38d17
+    span:
+    - body
+    - 12602
+    - 13208
+  label: 王灼瘡第十四
+  type: section
+  level: 2
+- ref:
+    seq: 37
+    marker_id: KR3ej010_jc_037-d38d18
+    span:
+    - body
+    - 13208
+    - 13351
+  label: 火灼瘡第十五
+  type: section
+  level: 2
+- ref:
+    seq: 37
+    marker_id: KR3ej010_jc_037-d38d19
+    span:
+    - body
+    - 13351
+    - 13449
+  label: 黃肥瘡第十六
+  type: section
+  level: 2
+- ref:
+    seq: 37
+    marker_id: KR3ej010_jc_037-d38d20
+    span:
+    - body
+    - 13449
+    - 13778
+  label: 浸淫瘡第十七
+  type: section
+  level: 2
+- ref:
+    seq: 38
+    marker_id: KR3ej010_jc_038-d39.h1s1
+    span:
+    - body
+    - 0
+    - 12428
+  label: 卷第三十八
+  type: section
+  level: 1
+- ref:
+    seq: 38
+    marker_id: KR3ej010_jc_038-d39d4
+    span:
+    - body
+    - 13
+    - 3770
+  label: 頭瘡第一
+  type: section
+  level: 2
+- ref:
+    seq: 38
+    marker_id: KR3ej010_jc_038-d39d5
+    span:
+    - body
+    - 3770
+    - 4008
+  label: 禿瘡第二
+  type: section
+  level: 2
+- ref:
+    seq: 38
+    marker_id: KR3ej010_jc_038-d39d6
+    span:
+    - body
+    - 4008
+    - 5281
+  label: 白禿瘡第三
+  type: section
+  level: 2
+- ref:
+    seq: 38
+    marker_id: KR3ej010_jc_038-d39d7
+    span:
+    - body
+    - 5281
+    - 5378
+  label: 赤禿瘡第四
+  type: section
+  level: 2
+- ref:
+    seq: 38
+    marker_id: KR3ej010_jc_038-d39d8
+    span:
+    - body
+    - 5378
+    - 5584
+  label: 漏頭瘡第五
+  type: section
+  level: 2
+- ref:
+    seq: 38
+    marker_id: KR3ej010_jc_038-d39d9
+    span:
+    - body
+    - 5584
+    - 6211
+  label: 蠼螋尿瘡第六
+  type: section
+  level: 2
+- ref:
+    seq: 38
+    marker_id: KR3ej010_jc_038-d39d10
+    span:
+    - body
+    - 6211
+    - 6307
+  label: 自懸瘡第七
+  type: section
+  level: 2
+- ref:
+    seq: 38
+    marker_id: KR3ej010_jc_038-d39d11
+    span:
+    - body
+    - 6307
+    - 6570
+  label: 代指第八
+  type: section
+  level: 2
+- ref:
+    seq: 38
+    marker_id: KR3ej010_jc_038-d39d12
+    span:
+    - body
+    - 6570
+    - 6679
+  label: 手足皸裂第九
+  type: section
+  level: 2
+- ref:
+    seq: 38
+    marker_id: KR3ej010_jc_038-d39d13
+    span:
+    - body
+    - 6679
+    - 6842
+  label: 腳瘃第十
+  type: section
+  level: 2
+- ref:
+    seq: 38
+    marker_id: KR3ej010_jc_038-d39d14
+    span:
+    - body
+    - 6842
+    - 7413
+  label: 凍瘡第十一
+  type: section
+  level: 2
+- ref:
+    seq: 38
+    marker_id: KR3ej010_jc_038-d39d15
+    span:
+    - body
+    - 7413
+    - 7838
+  label: 痱子第十二
+  type: section
+  level: 2
+- ref:
+    seq: 38
+    marker_id: KR3ej010_jc_038-d39d16
+    span:
+    - body
+    - 7838
+    - 7983
+  label: 赤疵第十三
+  type: section
+  level: 2
+- ref:
+    seq: 38
+    marker_id: KR3ej010_jc_038-d39d17
+    span:
+    - body
+    - 7983
+    - 8320
+  label: 白駁第十四
+  type: section
+  level: 2
+- ref:
+    seq: 38
+    marker_id: KR3ej010_jc_038-d39d18
+    span:
+    - body
+    - 8320
+    - 9212
+  label: 漆瘡第十五
+  type: section
+  level: 2
+- ref:
+    seq: 38
+    marker_id: KR3ej010_jc_038-d39d19
+    span:
+    - body
+    - 9212
+    - 10476
+  label: 金瘡第十六
+  type: section
+  level: 2
+- ref:
+    seq: 38
+    marker_id: KR3ej010_jc_038-d39d20
+    span:
+    - body
+    - 10476
+    - 12303
+  label: 湯燙火燒第十七
+  type: section
+  level: 2
+- ref:
+    seq: 38
+    marker_id: KR3ej010_jc_038-d39d21
+    span:
+    - body
+    - 12303
+    - 12428
+  label: 瘡中風中水第十八
+  type: section
+  level: 2
+- ref:
+    seq: 39
+    marker_id: KR3ej010_jc_039-d40.h1s1
+    span:
+    - body
+    - 0
+    - 16073
+  label: 卷第三十九
+  type: section
+  level: 1
+- ref:
+    seq: 39
+    marker_id: KR3ej010_jc_039-d40d4
+    span:
+    - body
+    - 13
+    - 1503
+  label: 惡刺第一
+  type: section
+  level: 2
+- ref:
+    seq: 39
+    marker_id: KR3ej010_jc_039-d40d5
+    span:
+    - body
+    - 1503
+    - 1672
+  label: 骨鯁第二
+  type: section
+  level: 2
+- ref:
+    seq: 39
+    marker_id: KR3ej010_jc_039-d40d6
+    span:
+    - body
+    - 1672
+    - 1797
+  label: 食土第三
+  type: section
+  level: 2
+- ref:
+    seq: 39
+    marker_id: KR3ej010_jc_039-d40d7
+    span:
+    - body
+    - 1797
+    - 2186
+  label: 落水第四
+  type: section
+  level: 2
+- ref:
+    seq: 39
+    marker_id: KR3ej010_jc_039-d40d8
+    span:
+    - body
+    - 2186
+    - 2748
+  label: 遺尿第五
+  type: section
+  level: 2
+- ref:
+    seq: 39
+    marker_id: KR3ej010_jc_039-d40d9
+    span:
+    - body
+    - 2748
+    - 2887
+  label: 尿床第六
+  type: section
+  level: 2
+- ref:
+    seq: 39
+    marker_id: KR3ej010_jc_039-d40d10
+    span:
+    - body
+    - 2887
+    - 3619
+  label: 狐臭第七
+  type: section
+  level: 2
+- ref:
+    seq: 39
+    marker_id: KR3ej010_jc_039-d40d11
+    span:
+    - body
+    - 3619
+    - 5071
+  label: 諾蟲咬第八
+  type: section
+  level: 2
+- ref:
+    seq: 39
+    marker_id: KR3ej010_jc_039-d40d12
+    span:
+    - body
+    - 5071
+    - 5235
+  label: 頭多生蝨第九
+  type: section
+  level: 2
+- ref:
+    seq: 39
+    marker_id: KR3ej010_jc_039-d40d13
+    span:
+    - body
+    - 5235
+    - 6272
+  label: 攧撲損瘀第十
+  type: section
+  level: 2
+- ref:
+    seq: 39
+    marker_id: KR3ej010_jc_039-d40d14
+    span:
+    - body
+    - 6272
+    - 7956
+  label: 誤吞銅鐵等物第十一
+  type: section
+  level: 2
+- ref:
+    seq: 39
+    marker_id: KR3ej010_jc_039-d40d15
+    span:
+    - body
+    - 7956
+    - 8063
+  label: 耳中有物不可出第十二
+  type: section
+  level: 2
+- ref:
+    seq: 39
+    marker_id: KR3ej010_jc_039-d40d16
+    span:
+    - body
+    - 8063
+    - 8431
+  label: 滅瘢痕第十三
+  type: section
+  level: 2
+- ref:
+    seq: 39
+    marker_id: KR3ej010_jc_039-d40d17
+    span:
+    - body
+    - 8431
+    - 9779
+  label: 中食毒第十四
+  type: section
+  level: 2
+- ref:
+    seq: 39
+    marker_id: KR3ej010_jc_039-d40d18
+    span:
+    - body
+    - 9779
+    - 11151
+  label: 中藥毒第十五
+  type: section
+  level: 2
+- ref:
+    seq: 39
+    marker_id: KR3ej010_jc_039-d40d19
+    span:
+    - body
+    - 11151
+    - 11558
+  label: 中水毒第十六
+  type: section
+  level: 2
+- ref:
+    seq: 39
+    marker_id: KR3ej010_jc_039-d40d20
+    span:
+    - body
+    - 11558
+    - 16073
+  label: 百病第十七
+  type: section
+  level: 2
+- ref:
+    seq: 40
+    marker_id: KR3ej010_jc_040-d41.h1s1
+    span:
+    - body
+    - 0
+    - 3867
+  label: 卷第四十
+  type: section
+  level: 1
+- ref:
+    seq: 40
+    marker_id: KR3ej010_jc_040-d41d4
+    span:
+    - body
+    - 12
+    - 482
+  label: 玉石部第一
+  type: section
+  level: 2
+- ref:
+    seq: 40
+    marker_id: KR3ej010_jc_040-d41d5
+    span:
+    - body
+    - 482
+    - 1171
+  label: 草部第二
+  type: section
+  level: 2
+- ref:
+    seq: 40
+    marker_id: KR3ej010_jc_040-d41d6
+    span:
+    - body
+    - 1171
+    - 1577
+  label: 木部第三
+  type: section
+  level: 2
+- ref:
+    seq: 40
+    marker_id: KR3ej010_jc_040-d41d7
+    span:
+    - body
+    - 1577
+    - 1625
+  label: 人部第四
+  type: section
+  level: 2
+- ref:
+    seq: 40
+    marker_id: KR3ej010_jc_040-d41d8
+    span:
+    - body
+    - 1625
+    - 1762
+  label: 獸部第五
+  type: section
+  level: 2
+- ref:
+    seq: 40
+    marker_id: KR3ej010_jc_040-d41d9
+    span:
+    - body
+    - 1762
+    - 1804
+  label: 禽部第六
+  type: section
+  level: 2
+- ref:
+    seq: 40
+    marker_id: KR3ej010_jc_040-d41d10
+    span:
+    - body
+    - 1804
+    - 2305
+  label: 蟲魚部第七
+  type: section
+  level: 2
+- ref:
+    seq: 40
+    marker_id: KR3ej010_jc_040-d41d11
+    span:
+    - body
+    - 2305
+    - 2362
+  label: 果部第八
+  type: section
+  level: 2
+- ref:
+    seq: 40
+    marker_id: KR3ej010_jc_040-d41d12
+    span:
+    - body
+    - 2362
+    - 2411
+  label: 米部第九
+  type: section
+  level: 2
+- ref:
+    seq: 40
+    marker_id: KR3ej010_jc_040-d41d13
+    span:
+    - body
+    - 2411
+    - 2440
+  label: 菜部第十
+  type: section
+  level: 2
+- ref:
+    seq: 40
+    marker_id: KR3ej010_jc_040-d41d14
+    span:
+    - body
+    - 2440
+    - 2672
+  label: 本草雖無而人可識者第十一
+  type: section
+  level: 2
+- ref:
+    seq: 40
+    marker_id: KR3ej010_jc_040-d41d15
+    span:
+    - body
+    - 2672
+    - 2758
+  label: 本草既無而人未識者第十二
+  type: section
+  level: 2
+- ref:
+    seq: 40
+    marker_id: KR3ej010_jc_040-d41d16
+    span:
+    - body
+    - 2758
+    - 2988
+  label: 前代方書第十三
+  type: section
+  level: 2
+- ref:
+    seq: 40
+    marker_id: KR3ej010_jc_040-d41d17
+    span:
+    - body
+    - 2988
+    - 3608
+  label: 近世方書第十四
+  type: section
+  level: 2
+- ref:
+    seq: 40
+    marker_id: KR3ej010_jc_040-d41d18
+    span:
+    - body
+    - 3608
+    - 3867
+  label: 士大夫家藏第十五
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej010_jc_000-d42.h1s1
+    span:
+    - front
+    - 0
+    - 725
+  label: 後序
+  type: section
+  level: 1
+hash: sha256:2d1486ccdf8e90d0555172000b8e3be2d4ce73530b53d611392a7f62b03fe1a9
