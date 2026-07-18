@@ -437,6 +437,7 @@ markers:
   - {type: punctuation, offset: 734, content: ：, id: KR3ej010_jc_040-bkkpn159}
   - {type: 'tls:seg', offset: 734, content: '', id: KR3ej010_jc_040-d41.d5.p42s3}
   - {type: punctuation, offset: 737, content: (, id: KR3ej010_jc_040-bkkpn160}
+  - {type: voice, offset: 737, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 739, content: ), id: KR3ej010_jc_040-bkkpn161}
   - {type: punctuation, offset: 740, content: ，, id: KR3ej010_jc_040-bkkpn162}
   - {type: 'tls:seg', offset: 740, content: '', id: KR3ej010_jc_040-d41.d5.p42s4}
@@ -787,6 +788,7 @@ markers:
   - {type: 'tls:seg', offset: 1297, content: '', id: KR3ej010_jc_040-d41.d6.p18s1}
   - {type: 'tls:seg', offset: 1302, content: '', id: KR3ej010_jc_040-d41.d6.p18s2}
   - {type: punctuation, offset: 1302, content: (, id: KR3ej010_jc_040-bkkpn274}
+  - {type: voice, offset: 1302, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 1304, content: ), id: KR3ej010_jc_040-bkkpn275}
   - {type: 'tls:seg', offset: 1304, content: '', id: KR3ej010_jc_040-d41.d6.p18s3}
   - {type: 'tls:seg-start', offset: 1307, content: '', id: KR3ej010_jc_040-d41.d6.p18s4, seg_type: comm, member_ids: [KR3ej010_jc_040-d41.d6.p18s4]}
@@ -1136,6 +1138,7 @@ markers:
   - {type: punctuation, offset: 1875, content: ，, id: KR3ej010_jc_040-bkkpn405}
   - {type: 'tls:seg', offset: 1875, content: '', id: KR3ej010_jc_040-d41.d10.p6s6}
   - {type: punctuation, offset: 1879, content: (, id: KR3ej010_jc_040-bkkpn406}
+  - {type: voice, offset: 1879, length: 2, name: note, id: n3}
   - {type: punctuation, offset: 1881, content: ), id: KR3ej010_jc_040-bkkpn407}
   - {type: punctuation, offset: 1881, content: ，, id: KR3ej010_jc_040-bkkpn408}
   - {type: 'tls:seg', offset: 1881, content: '', id: KR3ej010_jc_040-d41.d10.p6s7}
@@ -2323,4 +2326,4 @@ markers:
   - {type: punctuation, offset: 3867, content: 。, id: KR3ej010_jc_040-bkkpn834}
   - {type: xml-element, offset: 3867, content: '', id: KR3ej010_jc_040-d41.d18p60_end, name: p, role: close, attrs: {'xml:id': KR3ej010_jc_040-d41.d18p60}}
   back: []
-hash: sha256:931730fc5c86c76edfafa523b950787e3fede4cae1f70389099766abe50aa121
+hash: sha256:a02e9417f48e6ff8cd1169323bfe0a94037307de980b053479876b55c981a4ce

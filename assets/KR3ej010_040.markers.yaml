@@ -438,6 +438,7 @@ markers:
   - {type: punctuation, offset: 734, content: ：, id: KR3ej010_jc_040-bkkpn159}
   - {type: 'tls:seg', offset: 734, content: '', id: KR3ej010_jc_040-d41.d5.p42s3}
   - {type: punctuation, offset: 737, content: (, id: KR3ej010_jc_040-bkkpn160}
+  - {type: voice, offset: 737, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 739, content: ), id: KR3ej010_jc_040-bkkpn161}
   - {type: punctuation, offset: 740, content: ，, id: KR3ej010_jc_040-bkkpn162}
   - {type: 'tls:seg', offset: 740, content: '', id: KR3ej010_jc_040-d41.d5.p42s4}
@@ -794,6 +795,7 @@ markers:
   - {type: substitution, offset: 1301, original: 𨥥, replacement: 礦, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-3719}}
   - {type: 'tls:seg', offset: 1302, content: '', id: KR3ej010_jc_040-d41.d6.p18s2}
   - {type: punctuation, offset: 1302, content: (, id: KR3ej010_jc_040-bkkpn274}
+  - {type: voice, offset: 1302, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 1304, content: ), id: KR3ej010_jc_040-bkkpn275}
   - {type: 'tls:seg', offset: 1304, content: '', id: KR3ej010_jc_040-d41.d6.p18s3}
   - {type: 'tls:seg-start', offset: 1307, content: '', id: KR3ej010_jc_040-d41.d6.p18s4, seg_type: comm, member_ids: [KR3ej010_jc_040-d41.d6.p18s4]}
@@ -1145,6 +1147,7 @@ markers:
   - {type: punctuation, offset: 1875, content: ，, id: KR3ej010_jc_040-bkkpn405}
   - {type: 'tls:seg', offset: 1875, content: '', id: KR3ej010_jc_040-d41.d10.p6s6}
   - {type: punctuation, offset: 1879, content: (, id: KR3ej010_jc_040-bkkpn406}
+  - {type: voice, offset: 1879, length: 2, name: note, id: n3}
   - {type: punctuation, offset: 1881, content: ), id: KR3ej010_jc_040-bkkpn407}
   - {type: punctuation, offset: 1881, content: ，, id: KR3ej010_jc_040-bkkpn408}
   - {type: 'tls:seg', offset: 1881, content: '', id: KR3ej010_jc_040-d41.d10.p6s7}
@@ -2351,4 +2354,4 @@ markers:
   - {type: punctuation, offset: 3867, content: 。, id: KR3ej010_jc_040-bkkpn834}
   - {type: xml-element, offset: 3867, content: '', id: KR3ej010_jc_040-d41.d18p60_end, name: p, role: close, attrs: {'xml:id': KR3ej010_jc_040-d41.d18p60}}
   back: []
-hash: sha256:d641774d3fc1b83941c6100dde066f57e4965ec6e00fb72848d09d507a60dd0d
+hash: sha256:a0fc397bc21c793759842c0a5d3c0a2b7bd28b3485d1523174884057ab481526
